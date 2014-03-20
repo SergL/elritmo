@@ -1,0 +1,4 @@
+#header-menu div#s-div{
+	background: url("images/none.gif");
+	filter:progid:dximagetransform.microsoft.alphaimageloader(src='images/search.png', sizingmethod='image');
+}

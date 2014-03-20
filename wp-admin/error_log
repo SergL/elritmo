@@ -1,0 +1,4 @@
+[10-Jan-2013 12:40:13] PHP Fatal error:  Call to undefined function  is_post() in /home/vetalua8/public_html/elritmo.info/wp-content/themes/elritmo/functions.php on line 58
+[10-Jan-2013 13:16:38] PHP Fatal error:  Call to a member function query() on a non-object in /home/vetalua8/public_html/elritmo.info/wp-content/themes/elritmo/functions.php on line 67
+[10-Jan-2013 13:16:43] PHP Fatal error:  Call to a member function query() on a non-object in /home/vetalua8/public_html/elritmo.info/wp-content/themes/elritmo/functions.php on line 67
+[10-Jan-2013 13:41:56] PHP Parse error:  syntax error, unexpected $end in /home/vetalua8/public_html/elritmo.info/wp-content/themes/elritmo/functions.php on line 104

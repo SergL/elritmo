@@ -1,0 +1,82 @@
+#header-menu div#s-div{
+	background: url("images/none.gif");
+	filter:progid:dximagetransform.microsoft.alphaimageloader(src='images/search.png', sizingmethod='image');
+}
+
+#header form#searchform #s{
+	border:0px;
+	width:145px;
+	height:12px;
+	font-size:11px;
+	color:#555;
+	float:left;
+	border:0px solid red;
+	background:transparent;
+	padding-top:3px;
+}
+
+#header #slogan{
+	clear:both;
+	margin:55px 0px 0px 0px;
+	height:65px;
+	background: url('images/transparency-more-black-ie.png') center top no-repeat;		
+} 
+
+#home-form input.textinput{
+	font-size:11px;
+	background:#fff url('images/home-contact-form-bg.gif') repeat-x top;	
+	display:block;
+	border:1px solid #CBCBCB;
+	padding:4px 6px 0px 10px;
+	height:18px;
+	width:190px;
+	margin:3px 7px 10px 0px;	
+	color:#000;
+	float:left;
+}
+
+#footer .menu{
+	background: #f1f2f2 url('images/footer-menu-bg.png') repeat-x top;
+	border:1px solid #B2B2B2;
+	border-radius: 0px; /* CSS3 */
+	behavior:none;
+	padding-left:11px;
+	margin-bottom:0px;
+	padding-top:20px;
+	padding-bottom:20px;
+	font-size:11px;
+	line-height:16px;
+	min-height:100px;
+}
+
+#header #top-menu ul li{
+	float:left;
+	border-bottom:2px solid #000;
+	list-style:none;
+	margin:0px 2px 0px 3px;
+	background:#fff;
+	height:54px;
+	padding:0px 0px 2px 0px;
+	width:98px;
+	display:block;
+}
+
+#header #top-menu ul li a, #header #top-menu ul li a:active, #header #top-menu ul li a:visited{
+	display:block;
+	height:50px;
+	width:92px;
+	padding:2px 0px 2px 0px;
+	text-align:center;
+	background: url('images/top-menu-bg.png') repeat-x top;
+	font-size:13px;
+	text-decoration:none;
+	line-height:14px;
+	font-weight:bolder;
+	color:#969696;
+	clear:both;
+}
+
+#header #top-menu ul li a:hover{
+	color:#000;
+	background: url('images/top-menu-bg-hover.png') repeat-x top;
+}

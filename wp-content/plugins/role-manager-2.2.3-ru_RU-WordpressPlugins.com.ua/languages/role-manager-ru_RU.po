@@ -1,0 +1,448 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Role Manager 2.2.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2007-10-20 17:43+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Yaroslav.Ch <yaroslav.ch@gmail.com>\n"
+"Language-Team: Yaroslav.Ch <yaroslav.ch@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: UKRAINE\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: D:\\!All_my_documents\\#wordpressplugins\\#translates_plugins\\role-manager\n"
+
+#: ../capability-management.php:86
+msgid "New capability created"
+msgstr "Новое Право создано"
+
+#: ../capability-management.php:88
+msgid "Unused capabilites purged"
+msgstr "Неиспользуемые права очищены"
+
+#: ../capability-management.php:93
+msgid "Manage Capabilities"
+msgstr "Управление правами"
+
+#: ../capability-management.php:94
+msgid "This page is for editing capabilities."
+msgstr "Эта страница предназначена для управления правами"
+
+#: ../capability-management.php:96
+msgid "Custom Capabilities"
+msgstr "Пользовательские права"
+
+#: ../capability-management.php:98
+msgid "New Capability Name: "
+msgstr "Название нового Права:"
+
+#: ../capability-management.php:101
+msgid "Create Capability"
+msgstr "Создать Право"
+
+#: ../capability-management.php:103
+#: ../capability-management.php:115
+msgid "Purge Unused Capabilities"
+msgstr "Очистить неиспользуемые права"
+
+#: ../capability-management.php:107
+msgid "This capabilities are unused and will be purged"
+msgstr "Эти права не используются и будут очищены"
+
+#: ../capability-management.php:115
+msgid "If core capabilities are not currently assigned to any Role, then you must manually re-add them after this action if you want to use them.  Are you sure you want to do this?"
+msgstr "Если ключевые права не ассоциированы ни с одной Ролью, после этого действия вам необходимо вручную заново их добавить, если вы хотите их использовать. Вы уверены в том, что хотите это сделать?"
+
+#: ../capability-management.php:119
+#: ../general.php:91
+msgid "You don't have unused capabilities."
+msgstr "У вас нет неиспользуемых прав."
+
+#: ../capability-management.php:136
+msgid "Assign extra capabilites"
+msgstr "Назначение дополнительных прав"
+
+#: ../general.php:28
+msgid "General information about your Roles and Capabilities and this Plugin"
+msgstr "Общая информация о ваших Ролях и Правах и этом плагине"
+
+#: ../general.php:30
+msgid "Statistics"
+msgstr "Статистика"
+
+#: ../general.php:32
+msgid "User-Statistic"
+msgstr "Статистика пользователей"
+
+#: ../general.php:34
+msgid "Users in your Blog: "
+msgstr "Пользователей в Вашем блоге: "
+
+#: ../general.php:36
+msgid "Roles-Statistic"
+msgstr "Статистика Ролей"
+
+#: ../general.php:38
+msgid "Roles in your Blog: "
+msgstr "Ролей в вашем блоге: "
+
+#: ../general.php:39
+msgid "Attached Roles: "
+msgstr "Используемые Роли: "
+
+#: ../general.php:46
+msgid "Detached Roles: "
+msgstr "Неиспользуемые роли: "
+
+#: ../general.php:54
+msgid "Capabilities-Statistic"
+msgstr "Статистика прав"
+
+#: ../general.php:56
+msgid "Capabilities in your Blog: "
+msgstr "Прав в вашем блоге:"
+
+#: ../general.php:62
+msgid "Detached Capabilities: "
+msgstr "Неприсоединенных прав:"
+
+#: ../general.php:69
+msgid "You don't have detached capabilities."
+msgstr "У вас нет неприсоединенных прав."
+
+#: ../general.php:73
+msgid "Dedicated Capabilities: "
+msgstr "Выделенные права:"
+
+#: ../general.php:80
+msgid "You don't have dedicated capabilities."
+msgstr "У вас нет выделенных прав."
+
+#: ../general.php:84
+msgid "Unused Capabilities: "
+msgstr "Неиспользуемые права:"
+
+#: ../help.php:31
+msgid "Help for the Role Manager Plugin"
+msgstr "Помощью по плагину Role Manager"
+
+#: ../help.php:33
+msgid "General Help Contents"
+msgstr "Оглавление раздела помощи"
+
+#: ../help.php:35
+msgid "Help TOC"
+msgstr "Содержание раздела помощи"
+
+#: ../help.php:36
+#: ../help.php:46
+msgid "System Information for your Support Request"
+msgstr "Системная информация для запроса поддержки"
+
+#: ../help.php:44
+msgid "No help file found!"
+msgstr "Файлы помощи не найдены!"
+
+#: ../help.php:47
+msgid "Use this information if you have any problems or questions with the \"Role Manager\" at the \"<a href=\"http://www.im-web-gefunden.de/wordpress-plugins/role-manager\" title=\"Role Manager Plugin Homepage\">Role Manager Plugin Homepage</a>\"."
+msgstr "Воспользуйтесь этой инфорацией, если у вас возникают проблемы или вопросы по работе плагина \"Role Manager\", на сайте \"<a href=\"http://www.im-web-gefunden.de/wordpress-plugins/role-manager\" title=\"Домашняя страница плагина Role Manager\">Домашняя страница плагина Role Manager</a>\"."
+
+#: ../help.php:50
+msgid "WordPress-Version"
+msgstr "WordPress-Version"
+
+#: ../help.php:51
+msgid "WordPress-Db-Version"
+msgstr "WordPress-Version"
+
+#: ../help.php:52
+msgid "Role-Manager-Version"
+msgstr "WordPress-Version"
+
+#: ../help.php:53
+msgid "PHP-Version"
+msgstr "PHP-Version"
+
+#: ../help.php:55
+msgid "preg_replace"
+msgstr "preg_replace"
+
+#: ../help.php:55
+msgid "yes"
+msgstr "yes"
+
+#: ../help.php:55
+msgid "no"
+msgstr "no"
+
+#: ../help.php:56
+msgid "Help-URI"
+msgstr "Help-URI"
+
+#: ../help.php:59
+msgid "Your comments are also welcome!"
+msgstr "Ваши комментарии приветствуются!"
+
+#: ../role-management.php:69
+#: ../role-management.php:439
+msgid "Capability granted"
+msgstr "Право предоставлено"
+
+#: ../role-management.php:69
+#: ../role-management.php:441
+msgid "Capability denied"
+msgstr "Право отменено"
+
+#: ../role-management.php:117
+#: ../role-management.php:125
+msgid "Rename Role"
+msgstr "Переименовать Роль"
+
+#: ../role-management.php:121
+#: ../role-management.php:207
+msgid "New Name:"
+msgstr "Новое название:"
+
+#: ../role-management.php:203
+#: ../role-management.php:221
+msgid "Copy Role"
+msgstr "Копировать роль"
+
+#: ../role-management.php:208
+msgid "Copy of"
+msgstr "Копия"
+
+#: ../role-management.php:210
+#: ../role-management.php:534
+msgid "Capabilities to be included:"
+msgstr "Права, которые будут включены:"
+
+#: ../role-management.php:261
+msgid "Delete Role"
+msgstr "Удалить Роль"
+
+#: ../role-management.php:262
+msgid "All users with this role will have it removed, and they will lose all capabilities from this role (unless other roles provide it). If a user has only this role, they will be assigned the default role, "
+msgstr "Эта роль будет удалена для всех пользователей, которые с ней ассоциированы. Кроме того, они потеряют все права этой роли (кроме прав, предоставленых другими ролями). Если у пользователя была только эта роль, она будет заменена на роль-по-умолчанию,"
+
+#: ../role-management.php:267
+msgid "Confirm Delete Role"
+msgstr "Подтвердите удаление Роли"
+
+#: ../role-management.php:341
+msgid "Default role changed."
+msgstr "Роль по-умолчанию изменена."
+
+#: ../role-management.php:349
+msgid "Error: Default role not changed."
+msgstr "Ошибка: роль по-умолчанию не изменена."
+
+#: ../role-management.php:409
+msgid "Set user level of role."
+msgstr "Установить уровень пользователя для роли."
+
+#: ../role-management.php:443
+msgid "New role created"
+msgstr "Новая Роль создана"
+
+#: ../role-management.php:445
+msgid "Role renamed"
+msgstr "Роль переименована"
+
+#: ../role-management.php:447
+msgid "Role copied"
+msgstr "Роль скопирована"
+
+#: ../role-management.php:449
+msgid "Role deleted"
+msgstr "Роль удалена"
+
+#: ../role-management.php:451
+msgid "Default role changed"
+msgstr "Роль по-умолчанию изменена"
+
+#: ../role-management.php:453
+msgid "Set user level of role"
+msgstr "Установить уровень пользователя для роли"
+
+#: ../role-management.php:457
+msgid "Manage Roles"
+msgstr "Управление Ролями"
+
+#: ../role-management.php:458
+msgid "This page is for editing what capabilities are associated with each role. To change the capabilities of a specific user, click on Authors &amp; Users, then click Edit next to the user you want to change. You can <a href=\"#new-role\">add new roles</a> as well."
+msgstr "На этой странице вы можете проассоциировать Права с Ролью. Для изменения роли определенного пользователя, кликните на \"Авторы и Пользователи\", затем кликните \"Редактировать\" на имени того пользователя, чьи права вы хотите изменить. Кроме того, вы можете  <a href=\"#new-role\">добавлять новые роли</a>."
+
+#: ../role-management.php:475
+msgid "rename"
+msgstr "переименовать"
+
+#: ../role-management.php:478
+msgid "copy"
+msgstr "копировать"
+
+#: ../role-management.php:484
+msgid "delete"
+msgstr "удалить"
+
+#: ../role-management.php:498
+#: ../role-management.php:500
+msgid "Granted"
+msgstr "Выданы"
+
+#: ../role-management.php:503
+msgid "Denied"
+msgstr "Запрещено"
+
+#: ../role-management.php:514
+msgid "Update"
+msgstr "Обновлено"
+
+#: ../role-management.php:525
+#, php-format
+msgid " User Level: %s"
+msgstr " Уровень пользователя: %s"
+
+#: ../role-management.php:531
+msgid "Create a new Role"
+msgstr "Создать новую Роль"
+
+#: ../role-management.php:533
+msgid "Role Name:"
+msgstr "Имя Роли:"
+
+#: ../role-management.php:543
+msgid "Create Role"
+msgstr "Создать Роль"
+
+#: ../role-manager.php:108
+msgid "Role Management"
+msgstr "Управление Ролью"
+
+#: ../role-manager.php:108
+msgid "Roles"
+msgstr "Роли"
+
+#: ../role-manager.php:110
+msgid "Capability Management"
+msgstr "Управление правами"
+
+#: ../role-manager.php:110
+msgid "Capabilities"
+msgstr "Права"
+
+#: ../role-manager.php:112
+msgid "Role-/Capability Management General"
+msgstr "Управление Ролями и Правами"
+
+#: ../role-manager.php:114
+msgid "Role-/Capability Management Help"
+msgstr "Помощь по управлению Ролями и Правами"
+
+#: ../role-manager.php:128
+#: ../role-manager.php:561
+msgid "You can't remove this permission from a role assigned to you!"
+msgstr "Вы не можете снять это ограничение в этой Роли."
+
+#: ../role-manager.php:544
+msgid "You must enter a role name."
+msgstr "Пожалуйста, введите имя Роли"
+
+#: ../role-manager.php:545
+#, php-format
+msgid "Can't rename. A Role with the name %s already exists."
+msgstr "Переименование невозможно - имя Роли %s уже существует."
+
+#: ../role-manager.php:546
+msgid "You cannot delete the default role."
+msgstr "Вы не можете удалить Роль по-умолчанию"
+
+#: ../role-manager.php:547
+#, php-format
+msgid "Can't make %s the default. Not a role."
+msgstr "Сделать %s ролью по-умолчанию нельзя, т.к. это - не Роль."
+
+#: ../role-manager.php:548
+#, php-format
+msgid "Can't create the new Role. A Role with the name %s already exists."
+msgstr "Создание новой Роли не удалось - Роль именем %s уже существует."
+
+#: ../role-manager.php:549
+msgid "Role name to short or to long"
+msgstr "Имя Роли или слишком короткое или слишком длинное"
+
+#: ../role-manager.php:550
+#: ../role-manager.php:551
+msgid "A valid role name can only have letters, digits and spaces"
+msgstr "Корректное имя Роли может состоять только из букв, цифр и пробелов."
+
+#: ../role-manager.php:552
+#, php-format
+msgid "Can't create the new Role. A Capability with the name %s already exists."
+msgstr "Не удалось создать новую Роль. Право с именем %s уже существует."
+
+#: ../role-manager.php:553
+msgid "You must enter a valid user level"
+msgstr "Пожалуйста, введите корректный уровень пользователя"
+
+#: ../role-manager.php:554
+msgid "You must enter a capability name."
+msgstr "Вы должны ввести название Права"
+
+#: ../role-manager.php:555
+msgid "Capability don't exists."
+msgstr "Право не существует."
+
+#: ../role-manager.php:556
+msgid "Capability name to short or to long"
+msgstr "Название Права или слишком короткое или слишком длинное"
+
+#: ../role-manager.php:557
+#: ../role-manager.php:558
+msgid "A valid capability name can only have letters, digits and spaces"
+msgstr "Корректное название Права может состоять только из букв, цифр и пробелов."
+
+#: ../role-manager.php:559
+#, php-format
+msgid "Can't create the new Capability. A Role with the name %s already exists."
+msgstr "Не удалось создать новое Право. Роль с именем %s уже существует."
+
+#: ../role-manager.php:560
+msgid "You are not allowed to do this here"
+msgstr "У вас нет прав на выполнение этой операции"
+
+#: ../role-manager.php:562
+msgid "You cannot remove the Edit Users or Manage Roles capability from yourself."
+msgstr "Вы не можете удалить право \"Редактирование пользователей или Управление Ролями\" для своей учетной записи."
+
+#: ../role-manager.php:563
+msgid "Wrong User-ID!"
+msgstr "Неверный ID пользователя"
+
+#: ../role-manager.php:564
+msgid "User don't exists!"
+msgstr "Пользователя не существует!"
+
+#: ../role-manager.php:47
+msgid "If you have trouble with other plugins and Role Managers Capability Check"
+msgstr "Используйте, если у вас возникают проблемы с взаимодействием с другими плагинами или Проверкой Прав Role Manager"
+
+#: ../role-manager.php:37
+msgid "Configuration"
+msgstr "Конфигурация"
+
+#: ../role-manager.php:44
+msgid "Spaces allowed in Capabilities"
+msgstr "Разрешить пробелы в Правах"
+
+#: ../role-manager.php:51
+#: ../role-manager.php:55
+msgid "Store"
+msgstr "Сохранить"
+
+#: ../role-manager.php:32
+msgid "Configuration saved"
+msgstr "Конфигурация сохранена"
+
