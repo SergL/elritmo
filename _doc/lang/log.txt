@@ -1,0 +1,4 @@
+14:55:52: /home/serg/Work/Sites/elritmo/_doc/lang/tribe-events-calendar.po:307:21: invalid control sequence
+14:55:52: /home/serg/Work/Sites/elritmo/_doc/lang/tribe-events-calendar.po:316:21: invalid control sequence
+14:55:52: /home/serg/Work/Sites/elritmo/_doc/lang/tribe-events-calendar.po:336:37: invalid control sequence
+14:55:52: msgfmt: found 3 fatal errors
