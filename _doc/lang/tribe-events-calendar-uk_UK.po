@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: The Events Calendar 3.2\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-02-04 18:03-0800\n"
-"PO-Revision-Date: 2014-03-21 19:03+0300\n"
-"Last-Translator: \n"
+"PO-Revision-Date: 2014-03-24 15:13+0300\n"
+"Last-Translator: Василий Вишняков <salsero@chillidance.com>\n"
 "Language-Team: Modern Tribe, Inc. <support@tri.be>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -13,6 +13,7 @@ msgstr ""
 "X-Poedit-KeywordsList: __;_e\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-SourceCharset: UTF-8\n"
+"Language: uk\n"
 "X-Poedit-SearchPath-0: ..\n"
 
 #: ../admin-views/app-shop.php:4
@@ -21,15 +22,15 @@ msgstr "Tribe Event Add-Ons"
 
 #: ../admin-views/app-shop.php:50
 msgid "Version"
-msgstr ""
+msgstr "Версія"
 
 #: ../admin-views/app-shop.php:53
 msgid "Last Update"
-msgstr ""
+msgstr "Останнє оновлення"
 
 #: ../admin-views/event-sidebar-options.php:11
 msgid "Hide From Event Listings"
-msgstr ""
+msgstr "Сховати зі списку подій"
 
 #: ../admin-views/event-sidebar-options.php:12
 msgid "Sticky in Calendar View"
@@ -37,19 +38,19 @@ msgstr ""
 
 #: ../admin-views/events-audit-trail.php:41
 msgid "Auditing Information"
-msgstr ""
+msgstr "Перевірочна інформація"
 
 #: ../admin-views/events-audit-trail.php:47
 msgid "Created by:"
-msgstr ""
+msgstr "Зроблено:"
 
 #: ../admin-views/events-audit-trail.php:51
 msgid "Audit Trail:"
-msgstr ""
+msgstr "Перевірити тріал:"
 
 #: ../admin-views/events-meta-box.php:26
 msgid "Event Time &amp; Date"
-msgstr ""
+msgstr "Час події &amp; Дата"
 
 #: ../admin-views/events-meta-box.php:32
 msgid ""
@@ -60,11 +61,11 @@ msgstr ""
 
 #: ../admin-views/events-meta-box.php:35
 msgid "All Day Event:"
-msgstr ""
+msgstr "Подія на весь день:"
 
 #: ../admin-views/events-meta-box.php:39
 msgid "Start Date &amp; Time:"
-msgstr ""
+msgstr "Дата початку &amp; Час:"
 
 #: ../admin-views/events-meta-box.php:42 ../admin-views/events-meta-box.php:63
 msgid "YYYY-MM-DD"
@@ -76,15 +77,15 @@ msgstr "Закінчення Дата та Час"
 
 #: ../admin-views/events-meta-box.php:85
 msgid "Event Location Details"
-msgstr ""
+msgstr "Деталі місця"
 
 #: ../admin-views/events-meta-box.php:93
 msgid "Event Organizer Details"
-msgstr ""
+msgstr "Деталі організатора"
 
 #: ../admin-views/events-meta-box.php:101
 msgid "Event Website"
-msgstr ""
+msgstr "Сайт події"
 
 #: ../admin-views/events-meta-box.php:104
 msgid "URL:"
@@ -93,24 +94,26 @@ msgstr "URL:"
 #: ../admin-views/events-meta-box.php:115
 #: ../lib/io/csv/classes/TribeEventsImporter_ColumnMapper.php:61
 msgid "Event Cost"
-msgstr ""
+msgstr "Ціна події"
 
 #: ../admin-views/events-meta-box.php:118
 msgid "Currency Symbol:"
-msgstr ""
+msgstr "Символ валюти:"
 
 #: ../admin-views/events-meta-box.php:134
 #: ../public/advanced-functions/meta.php:319
 msgid "Cost:"
-msgstr ""
+msgstr "Ціна:"
 
 #: ../admin-views/events-meta-box.php:139
 msgid "Enter a 0 for events that are free or leave blank to hide the field."
 msgstr ""
+"Введіть 0 для подій, які є безкоштовними або залиште поле порожнім, щоб "
+"приховати поле."
 
 #: ../admin-views/organizer-meta-box.php:12
 msgid "Organizer Name:"
-msgstr ""
+msgstr "Назва організатора:"
 
 #: ../admin-views/organizer-meta-box.php:19
 #: ../admin-views/venue-meta-box.php:93
@@ -118,7 +121,7 @@ msgstr ""
 #: ../public/advanced-functions/meta.php:407
 #: ../public/advanced-functions/meta.php:469
 msgid "Phone:"
-msgstr ""
+msgstr "Телефон:"
 
 #: ../admin-views/organizer-meta-box.php:23
 #: ../admin-views/venue-meta-box.php:97
@@ -127,12 +130,12 @@ msgstr ""
 #: ../public/advanced-functions/meta.php:433
 #: ../public/advanced-functions/meta.php:495
 msgid "Website:"
-msgstr ""
+msgstr "Сайт:"
 
 #: ../admin-views/organizer-meta-box.php:27
 #: ../public/advanced-functions/meta.php:482
 msgid "Email:"
-msgstr ""
+msgstr "Е-mail:"
 
 #: ../admin-views/organizer-meta-box.php:28
 msgid ""
@@ -150,7 +153,7 @@ msgstr ""
 #: ../admin-views/recurrence-dialog.php:15
 #: ../admin-views/recurrence-dialog.php:23
 msgid "Only This Event:"
-msgstr ""
+msgstr "Тільки ця подія:"
 
 #: ../admin-views/recurrence-dialog.php:15
 msgid "All other future events in the series will remain the same."
@@ -159,7 +162,7 @@ msgstr ""
 #: ../admin-views/recurrence-dialog.php:16
 #: ../admin-views/recurrence-dialog.php:24
 msgid "All Events:"
-msgstr ""
+msgstr "Усі події:"
 
 #: ../admin-views/recurrence-dialog.php:16
 msgid ""
@@ -179,19 +182,19 @@ msgstr ""
 
 #: ../admin-views/recurrence-dialog.php:24
 msgid "All future events in the series will be deleted."
-msgstr ""
+msgstr "Всі майбутні заходи у цій серії будуть видалені."
 
 #: ../admin-views/tribe-options-display.php:4
 msgid "Default Events Template"
-msgstr ""
+msgstr "Шаблон події за замовчуванням"
 
 #: ../admin-views/tribe-options-display.php:5
 msgid "Default Page Template"
-msgstr ""
+msgstr "Шаблон сторінки за замовчуванням"
 
 #: ../admin-views/tribe-options-display.php:29
 msgid "Display Settings"
-msgstr ""
+msgstr "Налаштування показу"
 
 #: ../admin-views/tribe-options-display.php:34
 #, php-format
@@ -207,15 +210,15 @@ msgstr ""
 
 #: ../admin-views/tribe-options-display.php:49
 msgid "Basic Template Settings"
-msgstr ""
+msgstr "Основні налаштування шаблону"
 
 #: ../admin-views/tribe-options-display.php:53
 msgid "Default stylesheet used for events templates"
-msgstr ""
+msgstr "Стиль за замовчуванням, що використовуэться для шаблону події"
 
 #: ../admin-views/tribe-options-display.php:56
 msgid "Skeleton Styles"
-msgstr ""
+msgstr "Стиль, що налаштовується"
 
 #: ../admin-views/tribe-options-display.php:58
 msgid ""
@@ -225,23 +228,23 @@ msgstr ""
 
 #: ../admin-views/tribe-options-display.php:60
 msgid "Full Styles"
-msgstr ""
+msgstr "Повні стилі"
 
 #: ../admin-views/tribe-options-display.php:62
 msgid "More detailed styling, tries to grab styles from your theme."
-msgstr ""
+msgstr "Більш детальний стиль, спробуйте використати стилі з вашої теми."
 
 #: ../admin-views/tribe-options-display.php:64
 msgid "Tribe Events Styles"
-msgstr ""
+msgstr "Стилі від Tribe Events"
 
 #: ../admin-views/tribe-options-display.php:66
 msgid "A fully designed and styled theme for your events pages."
-msgstr ""
+msgstr "Повністью дезайнерські та стилізовані теми для ваших подій."
 
 #: ../admin-views/tribe-options-display.php:73
 msgid "Events template"
-msgstr ""
+msgstr "Стилі подій"
 
 #: ../admin-views/tribe-options-display.php:74
 msgid ""
@@ -251,19 +254,19 @@ msgstr ""
 
 #: ../admin-views/tribe-options-display.php:82
 msgid "Enable event views"
-msgstr ""
+msgstr "Включити перегляд подій"
 
 #: ../admin-views/tribe-options-display.php:83
 msgid "You must select at least one view."
-msgstr ""
+msgstr "Ви повинні вибрати хоча б один вид."
 
 #: ../admin-views/tribe-options-display.php:90
 msgid "Default view"
-msgstr ""
+msgstr "Прегляд за замовчуванням"
 
 #: ../admin-views/tribe-options-display.php:98
 msgid "Disable the Event Search Bar"
-msgstr ""
+msgstr "Відключення панелі пошуку"
 
 #: ../admin-views/tribe-options-display.php:99
 msgid "Check this to use the classic header."
@@ -283,7 +286,7 @@ msgstr ""
 
 #: ../admin-views/tribe-options-display.php:117
 msgid "Add HTML before event content"
-msgstr ""
+msgstr "Додати HTML до контенту події"
 
 #: ../admin-views/tribe-options-display.php:118
 msgid ""
@@ -381,7 +384,7 @@ msgstr ""
 
 #: ../admin-views/tribe-options-general.php:81
 msgid "Show comments"
-msgstr ""
+msgstr "Показувати коментарі"
 
 #: ../admin-views/tribe-options-general.php:82
 msgid "Enable comments on event pages."
@@ -419,7 +422,7 @@ msgstr ""
 #: ../admin-views/tribe-options-general.php:108
 #, php-format
 msgid "Your current events URL is: %s"
-msgstr ""
+msgstr "URL поточної події: %s"
 
 #: ../admin-views/tribe-options-general.php:113
 #: ../public/template-tags/options.php:43
@@ -469,7 +472,7 @@ msgstr ""
 
 #: ../admin-views/tribe-options-general.php:158
 msgid "Map Settings"
-msgstr ""
+msgstr "Налаштування карти"
 
 #: ../admin-views/tribe-options-general.php:162
 msgid "Enable Google Maps"
@@ -743,11 +746,11 @@ msgstr ""
 
 #: ../admin-views/tribe-options-help.php:164
 msgid "Author:"
-msgstr ""
+msgstr "Автор:"
 
 #: ../admin-views/tribe-options-help.php:164
 msgid "Modern Tribe Inc"
-msgstr ""
+msgstr "Modern Tribe Inc"
 
 #: ../admin-views/tribe-options-help.php:165
 msgid "Requires:"
@@ -755,11 +758,11 @@ msgstr ""
 
 #: ../admin-views/tribe-options-help.php:165
 msgid "WordPress "
-msgstr ""
+msgstr "WordPress"
 
 #: ../admin-views/tribe-options-help.php:166
 msgid "Wordpress.org Plugin Page"
-msgstr ""
+msgstr "Сторінка плагіну на Wordpress.org"
 
 #: ../admin-views/tribe-options-help.php:171
 msgid "Average Rating"
@@ -767,7 +770,7 @@ msgstr ""
 
 #: ../admin-views/tribe-options-help.php:176
 msgid "Give us 5 stars!"
-msgstr ""
+msgstr "Поставте нам 5 зірок!"
 
 #: ../admin-views/tribe-options-help.php:179
 msgid "Premium Add-Ons"
@@ -775,7 +778,7 @@ msgstr ""
 
 #: ../admin-views/tribe-options-help.php:185
 msgid "(Coming Soon!)"
-msgstr ""
+msgstr "(Скоро буде!)"
 
 #: ../admin-views/tribe-options-help.php:192
 msgid "News and Tutorials"
@@ -797,48 +800,48 @@ msgstr ""
 
 #: ../admin-views/venue-meta-box.php:20
 msgid "Venue Name:"
-msgstr ""
+msgstr "Назва місця:"
 
 #: ../admin-views/venue-meta-box.php:27
 #: ../public/advanced-functions/meta.php:421
 msgid "Address:"
-msgstr ""
+msgstr "Адреса:"
 
 #: ../admin-views/venue-meta-box.php:31
 msgid "City:"
-msgstr ""
+msgstr "Місто:"
 
 #: ../admin-views/venue-meta-box.php:35
 msgid "Country:"
-msgstr ""
+msgstr "Країна:"
 
 #: ../admin-views/venue-meta-box.php:73
 msgid "State or Province:"
-msgstr ""
+msgstr "Штат або провінція:"
 
 #: ../admin-views/venue-meta-box.php:76
 msgid "Select a State:"
-msgstr ""
+msgstr "Виберіть штат:"
 
 #: ../admin-views/venue-meta-box.php:89
 msgid "Postal Code:"
-msgstr ""
+msgstr "Поштовий індекс:"
 
 #: ../admin-views/venue-meta-box.php:112 ../admin-views/venue-meta-box.php:134
 msgid "Show Google Map:"
-msgstr ""
+msgstr "Показувати карту Google:"
 
 #: ../admin-views/venue-meta-box.php:122 ../admin-views/venue-meta-box.php:144
 msgid "Show Google Maps Link:"
-msgstr ""
+msgstr "Показувати посилання на карту Google:"
 
 #: ../admin-views/widget-admin-list.php:11
 msgid "Title:"
-msgstr ""
+msgstr "Назва:"
 
 #: ../admin-views/widget-admin-list.php:16
 msgid "Show:"
-msgstr ""
+msgstr "Показувати:"
 
 #: ../admin-views/widget-admin-list.php:24
 msgid "Show widget only if there are upcoming events:"
@@ -847,7 +850,7 @@ msgstr ""
 #: ../admin-views/tickets/attendees.php:9 ../admin-views/tickets/list.php:41
 #: ../lib/tickets/tribe-tickets-pro.php:73
 msgid "Attendees"
-msgstr ""
+msgstr "Учасники"
 
 #: ../admin-views/tickets/attendees.php:14
 msgid "Event Summary"
@@ -855,41 +858,41 @@ msgstr ""
 
 #: ../admin-views/tickets/attendees.php:22
 msgid "Event Details"
-msgstr ""
+msgstr "Деталі події"
 
 #: ../admin-views/tickets/attendees.php:24
 msgid "Start Date / Time:"
-msgstr ""
+msgstr "Дата/Час початку:"
 
 #: ../admin-views/tickets/attendees.php:26
 msgid "End Date / Time:"
-msgstr ""
+msgstr "Дата/Час завершення:"
 
 #: ../admin-views/tickets/attendees.php:34
 msgid "Venue:"
-msgstr ""
+msgstr "Місце:"
 
 #: ../admin-views/tickets/attendees.php:52
 msgid "Ticket Sales"
-msgstr ""
+msgstr "Продаж квитків"
 
 #: ../admin-views/tickets/attendees.php:64 ../admin-views/tickets/list.php:67
 #, php-format
 msgid "Sold %d"
-msgstr ""
+msgstr "Продано %d"
 
 #: ../admin-views/tickets/attendees.php:66 ../admin-views/tickets/list.php:69
 #, php-format
 msgid "Sold %d of %d"
-msgstr ""
+msgstr "Продано %d з %d"
 
 #: ../admin-views/tickets/attendees.php:81
 msgid "Tickets sold:"
-msgstr ""
+msgstr "Квитки продаються:"
 
 #: ../admin-views/tickets/attendees.php:85
 msgid "Checked in:"
-msgstr ""
+msgstr "Перевірено в:"
 
 #: ../admin-views/tickets/attendees.php:105
 msgid "Send the attendee list by email"
@@ -897,37 +900,37 @@ msgstr ""
 
 #: ../admin-views/tickets/attendees.php:109
 msgid "Select a User:"
-msgstr ""
+msgstr "Виберіть користувача:"
 
 #: ../admin-views/tickets/attendees.php:110
 msgid "Select..."
-msgstr ""
+msgstr "Виберіть..."
 
 #: ../admin-views/tickets/attendees.php:112
 msgid "or"
-msgstr ""
+msgstr "або"
 
 #: ../admin-views/tickets/attendees.php:114
 msgid "Email Address:"
-msgstr ""
+msgstr "Електронна адреса:"
 
 #: ../admin-views/tickets/list.php:21
 msgid "Edit"
-msgstr ""
+msgstr "Редагувати"
 
 #: ../admin-views/tickets/list.php:22
 msgid "Delete"
-msgstr ""
+msgstr "Видалити"
 
 #: ../admin-views/tickets/list.php:24
 #, php-format
 msgid "Edit in %s"
-msgstr ""
+msgstr "Редагувати у %s"
 
 #: ../admin-views/tickets/list.php:27
 #: ../lib/tribe-admin-events-list.class.php:53
 msgid "View"
-msgstr ""
+msgstr "Перегляд"
 
 #: ../admin-views/tickets/list.php:41 ../lib/tickets/tribe-tickets-pro.php:73
 msgid "See who purchased tickets to this event"
@@ -952,20 +955,20 @@ msgstr ""
 
 #: ../admin-views/tickets/meta-box.php:36
 msgid "Select an Image"
-msgstr ""
+msgstr "Вибрати зображення"
 
 #: ../admin-views/tickets/meta-box.php:44
 msgid "Remove"
-msgstr ""
+msgstr "Видалити"
 
 #: ../admin-views/tickets/meta-box.php:62
 #: ../admin-views/tickets/meta-box.php:72
 msgid "Add new ticket"
-msgstr ""
+msgstr "Додати новий квиток"
 
 #: ../admin-views/tickets/meta-box.php:73
 msgid "Edit ticket"
-msgstr ""
+msgstr "Редагувати квиток"
 
 #: ../admin-views/tickets/meta-box.php:79
 msgid "Sell using:"
@@ -1915,1210 +1918,1196 @@ msgid "Select a Country:"
 msgstr "Виберіть країну:"
 
 #: ../lib/tribe-view-helpers.class.php:45
-msgid "Afghanistan"
+msgid "Afghanistan "
 msgstr "Афганістан"
 
 #: ../lib/tribe-view-helpers.class.php:46
-msgid "Albania"
+msgid "Albania "
 msgstr "Албанія"
 
 #: ../lib/tribe-view-helpers.class.php:47
-msgid "Algeria"
+msgid "Algeria "
 msgstr "Алжир"
 
 #: ../lib/tribe-view-helpers.class.php:48
-msgid "American Samoa"
+msgid "American Samoa "
 msgstr "Американське Самоа"
 
 #: ../lib/tribe-view-helpers.class.php:49
-msgid "Andorra"
-msgstr ""
+msgid "Andorra "
+msgstr "Андорра"
 
 #: ../lib/tribe-view-helpers.class.php:50
-msgid "Angola"
-msgstr ""
+msgid "Angola "
+msgstr "Ангола"
 
 #: ../lib/tribe-view-helpers.class.php:51
-msgid "Anguilla"
-msgstr ""
+msgid "Anguilla "
+msgstr "Ангілья"
 
 #: ../lib/tribe-view-helpers.class.php:52
-msgid "Antarctica"
-msgstr ""
+msgid "Antarctica "
+msgstr "Антарктида"
 
 #: ../lib/tribe-view-helpers.class.php:53
-msgid "Antigua And Barbuda"
-msgstr ""
+msgid "Antigua And Barbuda "
+msgstr "Антигуа і Барбуда"
 
 #: ../lib/tribe-view-helpers.class.php:54
-msgid "Argentina"
-msgstr ""
+msgid "Argentina "
+msgstr "Аргентина"
 
 #: ../lib/tribe-view-helpers.class.php:55
-msgid "Armenia"
-msgstr ""
+msgid "Armenia "
+msgstr "Вірменія"
 
 #: ../lib/tribe-view-helpers.class.php:56
-msgid "Aruba"
-msgstr ""
+msgid "Aruba "
+msgstr "Аруба"
 
 #: ../lib/tribe-view-helpers.class.php:57
-msgid "Australia"
-msgstr ""
+msgid "Australia "
+msgstr "Австралія"
 
 #: ../lib/tribe-view-helpers.class.php:58
-msgid "Austria"
-msgstr ""
+msgid "Austria "
+msgstr "Австрія"
 
 #: ../lib/tribe-view-helpers.class.php:59
-msgid "Azerbaijan"
-msgstr ""
-
 #: ../lib/tribe-view-helpers.class.php:60
-msgid "Bahamas"
-msgstr ""
+msgid "Bahamas "
+msgstr "Багами"
 
 #: ../lib/tribe-view-helpers.class.php:61
-msgid "Bahrain"
-msgstr ""
+msgid "Bahrain "
+msgstr "Бахрейн"
 
 #: ../lib/tribe-view-helpers.class.php:62
-msgid "Bangladesh"
-msgstr ""
+msgid "Bangladesh "
+msgstr "Бангладеш"
 
 #: ../lib/tribe-view-helpers.class.php:63
-msgid "Barbados"
-msgstr ""
+msgid "Barbados "
+msgstr "Барбадос"
 
 #: ../lib/tribe-view-helpers.class.php:64
-msgid "Belarus"
-msgstr ""
+msgid "Belarus "
+msgstr "Білорусь"
 
 #: ../lib/tribe-view-helpers.class.php:65
-msgid "Belgium"
-msgstr ""
+msgid "Belgium "
+msgstr "Бельгія"
 
 #: ../lib/tribe-view-helpers.class.php:66
-msgid "Belize"
-msgstr ""
+msgid "Belize "
+msgstr "Беліз"
 
 #: ../lib/tribe-view-helpers.class.php:67
-msgid "Benin"
-msgstr ""
+msgid "Benin "
+msgstr "Бенін"
 
 #: ../lib/tribe-view-helpers.class.php:68
-msgid "Bermuda"
-msgstr ""
+msgid "Bermuda "
+msgstr "Бермуди"
 
 #: ../lib/tribe-view-helpers.class.php:69
-msgid "Bhutan"
-msgstr ""
+msgid "Bhutan "
+msgstr "Бутан"
 
 #: ../lib/tribe-view-helpers.class.php:70
-msgid "Bolivia"
-msgstr ""
+msgid "Bolivia "
+msgstr "Болівія"
 
 #: ../lib/tribe-view-helpers.class.php:71
-msgid "Bosnia And Herzegowina"
-msgstr ""
+msgid "Bosnia And Herzegowina "
+msgstr "Боснія і Герцеговина"
 
 #: ../lib/tribe-view-helpers.class.php:72
-msgid "Botswana"
-msgstr ""
+msgid "Botswana "
+msgstr "Ботсвана"
 
 #: ../lib/tribe-view-helpers.class.php:73
-msgid "Bouvet Island"
-msgstr ""
+msgid "Bouvet Island "
+msgstr "Острів Буве"
 
 #: ../lib/tribe-view-helpers.class.php:74
-msgid "Brazil"
-msgstr ""
+msgid "Brazil "
+msgstr "Бразилія"
 
 #: ../lib/tribe-view-helpers.class.php:75
-msgid "British Indian Ocean Territory"
-msgstr ""
+msgid "British Indian Ocean Territory "
+msgstr "Британська територія Індійського океану"
 
 #: ../lib/tribe-view-helpers.class.php:76
-msgid "Brunei Darussalam"
-msgstr ""
+msgid "Brunei Darussalam "
+msgstr "Бруней- Даруссалам"
 
 #: ../lib/tribe-view-helpers.class.php:77
-msgid "Bulgaria"
-msgstr ""
+msgid "Bulgaria "
+msgstr "Болгарія"
 
 #: ../lib/tribe-view-helpers.class.php:78
-msgid "Burkina Faso"
-msgstr ""
+msgid "Burkina Faso "
+msgstr "Буркіна- Фасо"
 
 #: ../lib/tribe-view-helpers.class.php:79
-msgid "Burundi"
-msgstr ""
+msgid "Burundi "
+msgstr "Бурунді"
 
 #: ../lib/tribe-view-helpers.class.php:80
-msgid "Cambodia"
-msgstr ""
+msgid "Cambodia "
+msgstr "Камбоджа"
 
 #: ../lib/tribe-view-helpers.class.php:81
-msgid "Cameroon"
-msgstr ""
-
 #: ../lib/tribe-view-helpers.class.php:82
-msgid "Canada"
-msgstr ""
+msgid "Canada "
+msgstr "Канада"
 
 #: ../lib/tribe-view-helpers.class.php:83
-msgid "Cape Verde"
-msgstr ""
+msgid "Cape Verde "
+msgstr "Кабо- Верде"
 
 #: ../lib/tribe-view-helpers.class.php:84
-msgid "Cayman Islands"
-msgstr ""
+msgid "Cayman Islands "
+msgstr "Кайманові острови"
 
 #: ../lib/tribe-view-helpers.class.php:85
-msgid "Central African Republic"
-msgstr ""
+msgid "Central African Republic "
+msgstr "Центрально -Африканська Республіка"
 
 #: ../lib/tribe-view-helpers.class.php:86
-msgid "Chad"
-msgstr ""
+msgid "Chad "
+msgstr "Чад"
 
 #: ../lib/tribe-view-helpers.class.php:87
-msgid "Chile"
-msgstr ""
+msgid "Chile "
+msgstr "Чилі"
 
 #: ../lib/tribe-view-helpers.class.php:88
-msgid "China"
-msgstr ""
+msgid "China "
+msgstr "Китай"
 
 #: ../lib/tribe-view-helpers.class.php:89
-msgid "Christmas Island"
-msgstr ""
+msgid "Christmas Island "
+msgstr "Острів Різдва"
 
 #: ../lib/tribe-view-helpers.class.php:90
-msgid "Cocos (Keeling) Islands"
-msgstr ""
+msgid "Cocos (Keeling) Islands "
+msgstr "Кокосові ( Кілінг ) острови"
 
 #: ../lib/tribe-view-helpers.class.php:91
-msgid "Colombia"
-msgstr ""
+msgid "Colombia "
+msgstr "Колумбія"
 
 #: ../lib/tribe-view-helpers.class.php:92
-msgid "Comoros"
-msgstr ""
+msgid "Comoros "
+msgstr "Комори"
 
 #: ../lib/tribe-view-helpers.class.php:93
-msgid "Congo"
-msgstr ""
+msgid "Congo "
+msgstr "Конго"
 
 #: ../lib/tribe-view-helpers.class.php:94
-msgid "Congo, The Democratic Republic Of The"
-msgstr ""
+msgid "Congo, The Democratic Republic Of The "
+msgstr "Конго , Демократична Республіка"
 
 #: ../lib/tribe-view-helpers.class.php:95
-msgid "Cook Islands"
-msgstr ""
+msgid "Cook Islands "
+msgstr "Острови Кука"
 
 #: ../lib/tribe-view-helpers.class.php:96
-msgid "Costa Rica"
-msgstr ""
+msgid "Costa Rica "
+msgstr "Коста -Ріка"
 
 #: ../lib/tribe-view-helpers.class.php:97
-msgid "Cote D'Ivoire"
-msgstr ""
+msgid "Cote D'Ivoire "
+msgstr "Кот- д'Івуар"
 
 #: ../lib/tribe-view-helpers.class.php:98
-msgid "Croatia (Local Name: Hrvatska)"
-msgstr ""
+msgid "Croatia (Local Name: Hrvatska) "
+msgstr "Хорватія (місцева назва : Hrvatska )"
 
 #: ../lib/tribe-view-helpers.class.php:99
-msgid "Cuba"
-msgstr ""
+msgid "Cuba "
+msgstr "Куба"
 
 #: ../lib/tribe-view-helpers.class.php:100
-msgid "Cyprus"
-msgstr ""
+msgid "Cyprus "
+msgstr "Кіпр"
 
 #: ../lib/tribe-view-helpers.class.php:101
-msgid "Czech Republic"
-msgstr ""
+msgid "Czech Republic "
+msgstr "Чехія"
 
 #: ../lib/tribe-view-helpers.class.php:102
-msgid "Denmark"
-msgstr ""
+msgid "Denmark "
+msgstr "Данія"
 
 #: ../lib/tribe-view-helpers.class.php:103
-msgid "Djibouti"
-msgstr ""
+msgid "Djibouti "
+msgstr "Джибуті"
 
 #: ../lib/tribe-view-helpers.class.php:104
-msgid "Dominica"
-msgstr ""
+msgid "Dominica "
+msgstr "Домініка"
 
 #: ../lib/tribe-view-helpers.class.php:105
-msgid "Dominican Republic"
-msgstr ""
+msgid "Dominican Republic "
+msgstr "Домініканська Республіка"
 
 #: ../lib/tribe-view-helpers.class.php:106
-msgid "East Timor"
-msgstr ""
+msgid "East Timor "
+msgstr "Східний Тимор"
 
 #: ../lib/tribe-view-helpers.class.php:107
-msgid "Ecuador"
-msgstr ""
+msgid "Ecuador "
+msgstr "Еквадор"
 
 #: ../lib/tribe-view-helpers.class.php:108
-msgid "Egypt"
-msgstr ""
+msgid "Egypt "
+msgstr "Єгипет"
 
 #: ../lib/tribe-view-helpers.class.php:109
-msgid "El Salvador"
-msgstr ""
+msgid "El Salvador "
+msgstr "Сальвадор"
 
 #: ../lib/tribe-view-helpers.class.php:110
-msgid "Equatorial Guinea"
-msgstr ""
+msgid "Equatorial Guinea "
+msgstr "Екваторіальна Гвінея"
 
 #: ../lib/tribe-view-helpers.class.php:111
-msgid "Eritrea"
-msgstr ""
+msgid "Eritrea "
+msgstr "Еритрея"
 
 #: ../lib/tribe-view-helpers.class.php:112
-msgid "Estonia"
-msgstr ""
+msgid "Estonia "
+msgstr "Естонія"
 
 #: ../lib/tribe-view-helpers.class.php:113
-msgid "Ethiopia"
-msgstr ""
+msgid "Ethiopia "
+msgstr "Ефіопія"
 
 #: ../lib/tribe-view-helpers.class.php:114
-msgid "Falkland Islands (Malvinas)"
-msgstr ""
+msgid "Falkland Islands (Malvinas) "
+msgstr "Фолклендські ( Мальвінські ) острови"
 
 #: ../lib/tribe-view-helpers.class.php:115
-msgid "Faroe Islands"
-msgstr ""
+msgid "Faroe Islands "
+msgstr "Фарерські острови"
 
 #: ../lib/tribe-view-helpers.class.php:116
-msgid "Fiji"
-msgstr ""
+msgid "Fiji "
+msgstr "Фіджі"
 
 #: ../lib/tribe-view-helpers.class.php:117
-msgid "Finland"
-msgstr ""
+msgid "Finland "
+msgstr "Фінляндія"
 
 #: ../lib/tribe-view-helpers.class.php:118
-msgid "France"
-msgstr ""
+msgid "France "
+msgstr "Франція"
 
 #: ../lib/tribe-view-helpers.class.php:119
-msgid "France, Metropolitan"
-msgstr ""
+msgid "France, Metropolitan "
+msgstr "Франція , митрополит"
 
 #: ../lib/tribe-view-helpers.class.php:120
-msgid "French Guiana"
-msgstr ""
+msgid "French Guiana "
+msgstr "Французька Гвіана"
 
 #: ../lib/tribe-view-helpers.class.php:121
-msgid "French Polynesia"
-msgstr ""
+msgid "French Polynesia "
+msgstr "Французька Полінезія"
 
 #: ../lib/tribe-view-helpers.class.php:122
-msgid "French Southern Territories"
-msgstr ""
+msgid "French Southern Territories "
+msgstr "Французькі південні території"
 
 #: ../lib/tribe-view-helpers.class.php:123
-msgid "Gabon"
-msgstr ""
+msgid "Gabon "
+msgstr "Габон"
 
 #: ../lib/tribe-view-helpers.class.php:124
-msgid "Gambia"
-msgstr ""
+msgid "Gambia "
+msgstr "Гамбія"
 
 #: ../lib/tribe-view-helpers.class.php:125
 #: ../lib/tribe-view-helpers.class.php:318
-msgid "Georgia"
-msgstr ""
-
 #: ../lib/tribe-view-helpers.class.php:126
-msgid "Germany"
-msgstr ""
+msgid "Germany "
+msgstr "Німеччина"
 
 #: ../lib/tribe-view-helpers.class.php:127
-msgid "Ghana"
-msgstr ""
+msgid "Ghana "
+msgstr "Гана"
 
 #: ../lib/tribe-view-helpers.class.php:128
-msgid "Gibraltar"
-msgstr ""
+msgid "Gibraltar "
+msgstr "Гібралтар"
 
 #: ../lib/tribe-view-helpers.class.php:129
-msgid "Greece"
-msgstr ""
+msgid "Greece "
+msgstr "Греція"
 
 #: ../lib/tribe-view-helpers.class.php:130
-msgid "Greenland"
-msgstr ""
+msgid "Greenland "
+msgstr "Гренландія"
 
 #: ../lib/tribe-view-helpers.class.php:131
-msgid "Grenada"
-msgstr ""
+msgid "Grenada "
+msgstr "Гренада"
 
 #: ../lib/tribe-view-helpers.class.php:132
-msgid "Guadeloupe"
-msgstr ""
+msgid "Guadeloupe "
+msgstr "Гваделупа"
 
 #: ../lib/tribe-view-helpers.class.php:133
-msgid "Guam"
-msgstr ""
+msgid "Guam "
+msgstr "Гуам"
 
 #: ../lib/tribe-view-helpers.class.php:134
-msgid "Guatemala"
-msgstr ""
+msgid "Guatemala "
+msgstr "Гватемала"
 
 #: ../lib/tribe-view-helpers.class.php:135
-msgid "Guinea"
-msgstr ""
+msgid "Guinea "
+msgstr "Гвінея"
 
 #: ../lib/tribe-view-helpers.class.php:136
-msgid "Guinea-Bissau"
-msgstr ""
+msgid "Guinea-Bissau "
+msgstr "Гвінея -Бісау"
 
 #: ../lib/tribe-view-helpers.class.php:137
-msgid "Guyana"
-msgstr ""
+msgid "Guyana "
+msgstr "Гайана"
 
 #: ../lib/tribe-view-helpers.class.php:138
-msgid "Haiti"
-msgstr ""
+msgid "Haiti "
+msgstr "Гаїті"
 
 #: ../lib/tribe-view-helpers.class.php:139
-msgid "Heard And Mc Donald Islands"
-msgstr ""
+msgid "Heard And Mc Donald Islands "
+msgstr "Херд і Мак Дональд острови"
 
 #: ../lib/tribe-view-helpers.class.php:140
-msgid "Holy See (Vatican City State)"
-msgstr ""
+msgid "Holy See (Vatican City State) "
+msgstr "Святий Престол ( Ватикан )"
 
 #: ../lib/tribe-view-helpers.class.php:141
-msgid "Honduras"
-msgstr ""
+msgid "Honduras "
+msgstr "Гондурас"
 
 #: ../lib/tribe-view-helpers.class.php:142
-msgid "Hong Kong"
-msgstr ""
+msgid "Hong Kong "
+msgstr "Гонконг"
 
 #: ../lib/tribe-view-helpers.class.php:143
-msgid "Hungary"
-msgstr ""
+msgid "Hungary "
+msgstr "Угорщина"
 
 #: ../lib/tribe-view-helpers.class.php:144
-msgid "Iceland"
-msgstr ""
+msgid "Iceland "
+msgstr "Ісландія"
 
 #: ../lib/tribe-view-helpers.class.php:145
-msgid "India"
-msgstr ""
+msgid "India "
+msgstr "Індія"
 
 #: ../lib/tribe-view-helpers.class.php:146
-msgid "Indonesia"
-msgstr ""
+msgid "Indonesia "
+msgstr "Індонезія"
 
 #: ../lib/tribe-view-helpers.class.php:147
-msgid "Iran (Islamic Republic Of)"
-msgstr ""
+msgid "Iran (Islamic Republic Of) "
+msgstr "Іран ( Ісламська Республіка)"
 
 #: ../lib/tribe-view-helpers.class.php:148
-msgid "Iraq"
-msgstr ""
+msgid "Iraq "
+msgstr "Ірак"
 
 #: ../lib/tribe-view-helpers.class.php:149
-msgid "Ireland"
-msgstr ""
+msgid "Ireland "
+msgstr "Ірландія"
 
 #: ../lib/tribe-view-helpers.class.php:150
-msgid "Israel"
-msgstr ""
+msgid "Israel "
+msgstr "Ізраїль"
 
 #: ../lib/tribe-view-helpers.class.php:151
-msgid "Italy"
-msgstr ""
+msgid "Italy "
+msgstr "Італія"
 
 #: ../lib/tribe-view-helpers.class.php:152
-msgid "Jamaica"
-msgstr ""
+msgid "Jamaica "
+msgstr "Ямайка"
 
 #: ../lib/tribe-view-helpers.class.php:153
-msgid "Japan"
-msgstr ""
+msgid "Japan "
+msgstr "Японія"
 
 #: ../lib/tribe-view-helpers.class.php:154
-msgid "Jordan"
-msgstr ""
+msgid "Jordan "
+msgstr "Джордан"
 
 #: ../lib/tribe-view-helpers.class.php:155
-msgid "Kazakhstan"
-msgstr ""
+msgid "Kazakhstan "
+msgstr "Казахстан"
 
 #: ../lib/tribe-view-helpers.class.php:156
-msgid "Kenya"
-msgstr ""
+msgid "Kenya "
+msgstr "Кенія"
 
 #: ../lib/tribe-view-helpers.class.php:157
-msgid "Kiribati"
-msgstr ""
+msgid "Kiribati "
+msgstr "Кірібаті"
 
 #: ../lib/tribe-view-helpers.class.php:158
-msgid "Korea, Democratic People's Republic Of"
-msgstr ""
+msgid "Korea, Democratic People's Republic Of "
+msgstr "Корея , Корейська Народно- Демократична Республіка"
 
 #: ../lib/tribe-view-helpers.class.php:159
-msgid "Korea, Republic Of"
-msgstr ""
+msgid "Korea, Republic Of "
+msgstr "Республіка Корея"
 
 #: ../lib/tribe-view-helpers.class.php:160
-msgid "Kuwait"
-msgstr ""
+msgid "Kuwait "
+msgstr "Кувейт"
 
 #: ../lib/tribe-view-helpers.class.php:161
-msgid "Kyrgyzstan"
-msgstr ""
-
 #: ../lib/tribe-view-helpers.class.php:162
-msgid "Lao People's Democratic Republic"
-msgstr ""
+msgid "Lao People's Democratic Republic "
+msgstr "Лаоська Народно- Демократична Республіка"
 
 #: ../lib/tribe-view-helpers.class.php:163
-msgid "Latvia"
-msgstr ""
+msgid "Latvia "
+msgstr "Латвія"
 
 #: ../lib/tribe-view-helpers.class.php:164
-msgid "Lebanon"
-msgstr ""
+msgid "Lebanon "
+msgstr "Ліван"
 
 #: ../lib/tribe-view-helpers.class.php:165
-msgid "Lesotho"
-msgstr ""
+msgid "Lesotho "
+msgstr "Лесото"
 
 #: ../lib/tribe-view-helpers.class.php:166
-msgid "Liberia"
-msgstr ""
+msgid "Liberia "
+msgstr "Ліберія"
 
 #: ../lib/tribe-view-helpers.class.php:167
-msgid "Libya"
-msgstr ""
+msgid "Libya "
+msgstr "Лівія"
 
 #: ../lib/tribe-view-helpers.class.php:168
-msgid "Liechtenstein"
-msgstr ""
+msgid "Liechtenstein "
+msgstr "Ліхтенштейн"
 
 #: ../lib/tribe-view-helpers.class.php:169
-msgid "Lithuania"
-msgstr ""
+msgid "Lithuania "
+msgstr "Литва"
 
 #: ../lib/tribe-view-helpers.class.php:170
-msgid "Luxembourg"
-msgstr ""
+msgid "Luxembourg "
+msgstr "Люксембург"
 
 #: ../lib/tribe-view-helpers.class.php:171
-msgid "Macau"
-msgstr ""
+msgid "Macau "
+msgstr "Макао"
 
 #: ../lib/tribe-view-helpers.class.php:172
-msgid "Macedonia"
-msgstr ""
+msgid "Macedonia "
+msgstr "Македонія"
 
 #: ../lib/tribe-view-helpers.class.php:173
-msgid "Madagascar"
-msgstr ""
+msgid "Madagascar "
+msgstr "Мадагаскар"
 
 #: ../lib/tribe-view-helpers.class.php:174
-msgid "Malawi"
-msgstr ""
+msgid "Malawi "
+msgstr "Малаві"
 
 #: ../lib/tribe-view-helpers.class.php:175
-msgid "Malaysia"
-msgstr ""
+msgid "Malaysia "
+msgstr "Малайзія"
 
 #: ../lib/tribe-view-helpers.class.php:176
-msgid "Maldives"
-msgstr ""
+msgid "Maldives "
+msgstr "Мальдіви"
 
 #: ../lib/tribe-view-helpers.class.php:177
-msgid "Mali"
-msgstr ""
+msgid "Mali "
+msgstr "Малі"
 
 #: ../lib/tribe-view-helpers.class.php:178
-msgid "Malta"
-msgstr ""
+msgid "Malta "
+msgstr "Мальта"
 
 #: ../lib/tribe-view-helpers.class.php:179
-msgid "Marshall Islands"
-msgstr ""
+msgid "Marshall Islands "
+msgstr "Маршаллові Острови"
 
 #: ../lib/tribe-view-helpers.class.php:180
-msgid "Martinique"
-msgstr ""
+msgid "Martinique "
+msgstr "Мартиніка"
 
 #: ../lib/tribe-view-helpers.class.php:181
-msgid "Mauritania"
-msgstr ""
+msgid "Mauritania "
+msgstr "Мавританія"
 
 #: ../lib/tribe-view-helpers.class.php:182
-msgid "Mauritius"
-msgstr ""
+msgid "Mauritius "
+msgstr "Маврикій"
 
 #: ../lib/tribe-view-helpers.class.php:183
-msgid "Mayotte"
-msgstr ""
+msgid "Mayotte "
+msgstr "Майотта"
 
 #: ../lib/tribe-view-helpers.class.php:184
-msgid "Mexico"
-msgstr ""
+msgid "Mexico "
+msgstr "Мексика"
 
 #: ../lib/tribe-view-helpers.class.php:185
-msgid "Micronesia, Federated States Of"
-msgstr ""
+msgid "Micronesia, Federated States Of "
+msgstr "Мікронезія , Федеративні Штати"
 
 #: ../lib/tribe-view-helpers.class.php:186
-msgid "Moldova, Republic Of"
-msgstr ""
+msgid "Moldova, Republic Of "
+msgstr "Молдова"
 
 #: ../lib/tribe-view-helpers.class.php:187
-msgid "Monaco"
-msgstr ""
+msgid "Monaco "
+msgstr "Монако"
 
 #: ../lib/tribe-view-helpers.class.php:188
-msgid "Mongolia"
-msgstr ""
+msgid "Mongolia "
+msgstr "Монголія"
 
 #: ../lib/tribe-view-helpers.class.php:189
-msgid "Montenegro"
-msgstr ""
+msgid "Montenegro "
+msgstr "Чорногорія"
 
 #: ../lib/tribe-view-helpers.class.php:190
-msgid "Montserrat"
-msgstr ""
+msgid "Montserrat "
+msgstr "Монтсеррат"
 
 #: ../lib/tribe-view-helpers.class.php:191
-msgid "Morocco"
-msgstr ""
+msgid "Morocco "
+msgstr "Марокко"
 
 #: ../lib/tribe-view-helpers.class.php:192
-msgid "Mozambique"
-msgstr ""
+msgid "Mozambique "
+msgstr "Мозамбік"
 
 #: ../lib/tribe-view-helpers.class.php:193
-msgid "Myanmar"
-msgstr ""
+msgid "Myanmar "
+msgstr "М'янма"
 
 #: ../lib/tribe-view-helpers.class.php:194
-msgid "Namibia"
-msgstr ""
+msgid "Namibia "
+msgstr "Намібія"
 
 #: ../lib/tribe-view-helpers.class.php:195
-msgid "Nauru"
-msgstr ""
+msgid "Nauru "
+msgstr "Науру"
 
 #: ../lib/tribe-view-helpers.class.php:196
-msgid "Nepal"
-msgstr ""
+msgid "Nepal "
+msgstr "Непал"
 
 #: ../lib/tribe-view-helpers.class.php:197
-msgid "Netherlands"
-msgstr ""
+msgid "Netherlands "
+msgstr "Нідерланди"
 
 #: ../lib/tribe-view-helpers.class.php:198
-msgid "Netherlands Antilles"
-msgstr ""
+msgid "Netherlands Antilles "
+msgstr "Нідерландські Антильські острови"
 
 #: ../lib/tribe-view-helpers.class.php:199
-msgid "New Caledonia"
-msgstr ""
+msgid "New Caledonia "
+msgstr "Нова Каледонія"
 
 #: ../lib/tribe-view-helpers.class.php:200
-msgid "New Zealand"
-msgstr ""
+msgid "New Zealand "
+msgstr "Нова Зеландія"
 
 #: ../lib/tribe-view-helpers.class.php:201
-msgid "Nicaragua"
-msgstr ""
+msgid "Nicaragua "
+msgstr "Нікарагуа"
 
 #: ../lib/tribe-view-helpers.class.php:202
-msgid "Niger"
-msgstr ""
+msgid "Niger "
+msgstr "Нігер"
 
 #: ../lib/tribe-view-helpers.class.php:203
-msgid "Nigeria"
-msgstr ""
+msgid "Nigeria "
+msgstr "Нігерія"
 
 #: ../lib/tribe-view-helpers.class.php:204
-msgid "Niue"
-msgstr ""
+msgid "Niue "
+msgstr "Ніуе"
 
 #: ../lib/tribe-view-helpers.class.php:205
-msgid "Norfolk Island"
-msgstr ""
+msgid "Norfolk Island "
+msgstr "Острів Норфолк"
 
 #: ../lib/tribe-view-helpers.class.php:206
-msgid "Northern Mariana Islands"
-msgstr ""
+msgid "Northern Mariana Islands "
+msgstr "Північні Маріанські острови"
 
 #: ../lib/tribe-view-helpers.class.php:207
-msgid "Norway"
-msgstr ""
+msgid "Norway "
+msgstr "Норвегія"
 
 #: ../lib/tribe-view-helpers.class.php:208
-msgid "Oman"
-msgstr ""
+msgid "Oman "
+msgstr "Оман"
 
 #: ../lib/tribe-view-helpers.class.php:209
-msgid "Pakistan"
-msgstr ""
+msgid "Pakistan "
+msgstr "Пакистан"
 
 #: ../lib/tribe-view-helpers.class.php:210
-msgid "Palau"
-msgstr ""
+msgid "Palau "
+msgstr "Палау"
 
 #: ../lib/tribe-view-helpers.class.php:211
-msgid "Panama"
-msgstr ""
+msgid "Panama "
+msgstr "Панама"
 
 #: ../lib/tribe-view-helpers.class.php:212
-msgid "Papua New Guinea"
-msgstr ""
+msgid "Papua New Guinea "
+msgstr "Папуа - Нова Гвінея"
 
 #: ../lib/tribe-view-helpers.class.php:213
-msgid "Paraguay"
-msgstr ""
+msgid "Paraguay "
+msgstr "Парагвай"
 
 #: ../lib/tribe-view-helpers.class.php:214
-msgid "Peru"
-msgstr ""
+msgid "Peru "
+msgstr "Перу"
 
 #: ../lib/tribe-view-helpers.class.php:215
-msgid "Philippines"
-msgstr ""
+msgid "Philippines "
+msgstr "Філіппіни"
 
 #: ../lib/tribe-view-helpers.class.php:216
-msgid "Pitcairn"
-msgstr ""
+msgid "Pitcairn "
+msgstr "Піткерн"
 
 #: ../lib/tribe-view-helpers.class.php:217
-msgid "Poland"
-msgstr ""
+msgid "Poland "
+msgstr "Польща"
 
 #: ../lib/tribe-view-helpers.class.php:218
-msgid "Portugal"
-msgstr ""
+msgid "Portugal "
+msgstr "Португалія"
 
 #: ../lib/tribe-view-helpers.class.php:219
-msgid "Puerto Rico"
-msgstr ""
+msgid "Puerto Rico "
+msgstr "Пуерто-Ріко"
 
 #: ../lib/tribe-view-helpers.class.php:220
-msgid "Qatar"
-msgstr ""
+msgid "Qatar "
+msgstr "Катар"
 
 #: ../lib/tribe-view-helpers.class.php:221
-msgid "Reunion"
-msgstr ""
+msgid "Reunion "
+msgstr "Возз'єднання"
 
 #: ../lib/tribe-view-helpers.class.php:222
-msgid "Romania"
-msgstr ""
+msgid "Romania "
+msgstr "Румунія"
 
 #: ../lib/tribe-view-helpers.class.php:223
-msgid "Russian Federation"
-msgstr ""
+msgid "Russian Federation "
+msgstr "Російський Федерація"
 
 #: ../lib/tribe-view-helpers.class.php:224
-msgid "Rwanda"
-msgstr ""
+msgid "Rwanda "
+msgstr "Руанда"
 
 #: ../lib/tribe-view-helpers.class.php:225
-msgid "Saint Kitts And Nevis"
-msgstr ""
+msgid "Saint Kitts And Nevis "
+msgstr "Сент -Кітс і Невіс"
 
 #: ../lib/tribe-view-helpers.class.php:226
-msgid "Saint Lucia"
-msgstr ""
+msgid "Saint Lucia "
+msgstr "Сент -Люсія"
 
 #: ../lib/tribe-view-helpers.class.php:227
-msgid "Saint Vincent And The Grenadines"
-msgstr ""
+msgid "Saint Vincent And The Grenadines "
+msgstr "Сент-Вінсент і Гренадіни"
 
 #: ../lib/tribe-view-helpers.class.php:228
-msgid "Samoa"
-msgstr ""
+msgid "Samoa "
+msgstr "Самоа"
 
 #: ../lib/tribe-view-helpers.class.php:229
-msgid "San Marino"
-msgstr ""
+msgid "San Marino "
+msgstr "Сан-Марино"
 
 #: ../lib/tribe-view-helpers.class.php:230
-msgid "Sao Tome And Principe"
-msgstr ""
+msgid "Sao Tome And Principe "
+msgstr "Сан-Томе і Прінсіпі"
 
 #: ../lib/tribe-view-helpers.class.php:231
-msgid "Saudi Arabia"
-msgstr ""
+msgid "Saudi Arabia "
+msgstr "Саудівська Аравія"
 
 #: ../lib/tribe-view-helpers.class.php:232
-msgid "Senegal"
-msgstr ""
+msgid "Senegal "
+msgstr "Сенегал"
 
 #: ../lib/tribe-view-helpers.class.php:233
-msgid "Serbia"
-msgstr ""
+msgid "Serbia "
+msgstr "Сербія"
 
 #: ../lib/tribe-view-helpers.class.php:234
-msgid "Seychelles"
-msgstr ""
+msgid "Seychelles "
+msgstr "Сейшели"
 
 #: ../lib/tribe-view-helpers.class.php:235
-msgid "Sierra Leone"
-msgstr ""
+msgid "Sierra Leone "
+msgstr "Сьєрра-Леоне"
 
 #: ../lib/tribe-view-helpers.class.php:236
-msgid "Singapore"
-msgstr ""
+msgid "Singapore "
+msgstr "Сінгапур"
 
 #: ../lib/tribe-view-helpers.class.php:237
-msgid "Slovakia (Slovak Republic)"
-msgstr ""
+msgid "Slovakia (Slovak Republic) "
+msgstr "Словаччина (Словацька Республіка)"
 
 #: ../lib/tribe-view-helpers.class.php:238
-msgid "Slovenia"
-msgstr ""
+msgid "Slovenia "
+msgstr "Словенія"
 
 #: ../lib/tribe-view-helpers.class.php:239
-msgid "Solomon Islands"
-msgstr ""
+msgid "Solomon Islands "
+msgstr "Соломонові острови"
 
 #: ../lib/tribe-view-helpers.class.php:240
-msgid "Somalia"
-msgstr ""
+msgid "Somalia "
+msgstr "Сомалі"
 
 #: ../lib/tribe-view-helpers.class.php:241
-msgid "South Africa"
-msgstr ""
+msgid "South Africa "
+msgstr "Південна Африка"
 
 #: ../lib/tribe-view-helpers.class.php:242
-msgid "South Georgia, South Sandwich Islands"
-msgstr ""
+msgid "South Georgia, South Sandwich Islands "
+msgstr "Південна Джорджія , Південні Сандвічеві острови"
 
 #: ../lib/tribe-view-helpers.class.php:243
-msgid "Spain"
-msgstr ""
+msgid "Spain "
+msgstr "Іспанія"
 
 #: ../lib/tribe-view-helpers.class.php:244
-msgid "Sri Lanka"
-msgstr ""
+msgid "Sri Lanka "
+msgstr "Шрі -Ланка"
 
 #: ../lib/tribe-view-helpers.class.php:245
-msgid "St. Helena"
-msgstr ""
+msgid "St. Helena "
+msgstr "Святої Єлени"
 
 #: ../lib/tribe-view-helpers.class.php:246
-msgid "St. Pierre And Miquelon"
-msgstr ""
+msgid "St. Pierre And Miquelon "
+msgstr "Сен-П'єр і Мікелон"
 
 #: ../lib/tribe-view-helpers.class.php:247
-msgid "Sudan"
-msgstr ""
+msgid "Sudan "
+msgstr "Судан"
 
 #: ../lib/tribe-view-helpers.class.php:248
-msgid "Suriname"
-msgstr ""
+msgid "Suriname "
+msgstr "Сурінам"
 
 #: ../lib/tribe-view-helpers.class.php:249
-msgid "Svalbard And Jan Mayen Islands"
-msgstr ""
+msgid "Svalbard And Jan Mayen Islands "
+msgstr "Шпіцберген і Ян -Майєн"
 
 #: ../lib/tribe-view-helpers.class.php:250
-msgid "Swaziland"
-msgstr ""
+msgid "Swaziland "
+msgstr "Свазіленд"
 
 #: ../lib/tribe-view-helpers.class.php:251
-msgid "Sweden"
-msgstr ""
+msgid "Sweden "
+msgstr "Швеція"
 
 #: ../lib/tribe-view-helpers.class.php:252
-msgid "Switzerland"
-msgstr ""
+msgid "Switzerland "
+msgstr "Швейцарія"
 
 #: ../lib/tribe-view-helpers.class.php:253
-msgid "Syrian Arab Republic"
-msgstr ""
+msgid "Syrian Arab Republic "
+msgstr "Сирійська Арабська Республіка"
 
 #: ../lib/tribe-view-helpers.class.php:254
-msgid "Taiwan"
-msgstr ""
+msgid "Taiwan "
+msgstr "Тайвань"
 
 #: ../lib/tribe-view-helpers.class.php:255
-msgid "Tajikistan"
-msgstr ""
+msgid "Tajikistan "
+msgstr "Таджикистан"
 
 #: ../lib/tribe-view-helpers.class.php:256
-msgid "Tanzania, United Republic Of"
-msgstr ""
+msgid "Tanzania, United Republic Of "
+msgstr "Танзанія , Об'єднана Республіка"
 
 #: ../lib/tribe-view-helpers.class.php:257
-msgid "Thailand"
-msgstr ""
+msgid "Thailand "
+msgstr "Таїланд"
 
 #: ../lib/tribe-view-helpers.class.php:258
-msgid "Togo"
-msgstr ""
+msgid "Togo "
+msgstr "Того"
 
 #: ../lib/tribe-view-helpers.class.php:259
-msgid "Tokelau"
-msgstr ""
+msgid "Tokelau "
+msgstr "Токелау"
 
 #: ../lib/tribe-view-helpers.class.php:260
-msgid "Tonga"
-msgstr ""
+msgid "Tonga "
+msgstr "Тонга"
 
 #: ../lib/tribe-view-helpers.class.php:261
-msgid "Trinidad And Tobago"
-msgstr ""
+msgid "Trinidad And Tobago "
+msgstr "Тринідад і Тобаго"
 
 #: ../lib/tribe-view-helpers.class.php:262
-msgid "Tunisia"
-msgstr ""
+msgid "Tunisia "
+msgstr "Туніс"
 
 #: ../lib/tribe-view-helpers.class.php:263
-msgid "Turkey"
-msgstr ""
+msgid "Turkey "
+msgstr "Туреччина"
 
 #: ../lib/tribe-view-helpers.class.php:264
-msgid "Turkmenistan"
-msgstr ""
+msgid "Turkmenistan "
+msgstr "Туркменістан"
 
 #: ../lib/tribe-view-helpers.class.php:265
-msgid "Turks And Caicos Islands"
-msgstr ""
+msgid "Turks And Caicos Islands "
+msgstr "Острови Теркс і Кайкос"
 
 #: ../lib/tribe-view-helpers.class.php:266
-msgid "Tuvalu"
-msgstr ""
+msgid "Tuvalu "
+msgstr "Тувалу"
 
 #: ../lib/tribe-view-helpers.class.php:267
-msgid "Uganda"
-msgstr ""
-
 #: ../lib/tribe-view-helpers.class.php:268
-msgid "Ukraine"
-msgstr ""
+msgid "Ukraine "
+msgstr "Україна"
 
 #: ../lib/tribe-view-helpers.class.php:269
-msgid "United Arab Emirates"
-msgstr ""
+msgid "United Arab Emirates "
+msgstr "Об'єднані Арабські Емірати"
 
 #: ../lib/tribe-view-helpers.class.php:270
-msgid "United Kingdom"
-msgstr ""
+msgid "United Kingdom "
+msgstr "Великобританія"
 
 #: ../lib/tribe-view-helpers.class.php:271
-msgid "United States Minor Outlying Islands"
-msgstr ""
+msgid "United States Minor Outlying Islands "
+msgstr "Сполучені Штати Америки Зовнішні малі острови"
 
 #: ../lib/tribe-view-helpers.class.php:272
-msgid "Uruguay"
-msgstr ""
+msgid "Uruguay "
+msgstr "Уругвай"
 
 #: ../lib/tribe-view-helpers.class.php:273
-msgid "Uzbekistan"
-msgstr ""
+msgid "Uzbekistan "
+msgstr "Узбекистан"
 
 #: ../lib/tribe-view-helpers.class.php:274
-msgid "Vanuatu"
-msgstr ""
+msgid "Vanuatu "
+msgstr "Вануату"
 
 #: ../lib/tribe-view-helpers.class.php:275
-msgid "Venezuela"
-msgstr ""
+msgid "Venezuela "
+msgstr "Венесуела"
 
 #: ../lib/tribe-view-helpers.class.php:276
-msgid "Viet Nam"
-msgstr ""
+msgid "Viet Nam "
+msgstr "В'єтнам"
 
 #: ../lib/tribe-view-helpers.class.php:277
-msgid "Virgin Islands (British)"
-msgstr ""
+msgid "Virgin Islands (British) "
+msgstr "Віргінські острови (Британські)"
 
 #: ../lib/tribe-view-helpers.class.php:278
-msgid "Virgin Islands (U.S.)"
-msgstr ""
+msgid "Virgin Islands (U.S.) "
+msgstr "Віргінські острови ( США)"
 
 #: ../lib/tribe-view-helpers.class.php:279
-msgid "Wallis And Futuna Islands"
-msgstr ""
+msgid "Wallis And Futuna Islands "
+msgstr "Уолліс Футуна"
 
 #: ../lib/tribe-view-helpers.class.php:280
-msgid "Western Sahara"
-msgstr ""
+msgid "Western Sahara "
+msgstr "Західна Сахара"
 
 #: ../lib/tribe-view-helpers.class.php:281
-msgid "Yemen"
-msgstr ""
+msgid "Yemen "
+msgstr "Ємен"
 
 #: ../lib/tribe-view-helpers.class.php:282
-msgid "Zambia"
-msgstr ""
+msgid "Zambia "
+msgstr "Замбія"
 
 #: ../lib/tribe-view-helpers.class.php:283
-msgid "Zimbabwe"
-msgstr ""
+msgid "Zimbabwe "
+msgstr "Зімбабве"
 
 #: ../lib/tribe-view-helpers.class.php:308
-msgid "Alabama"
-msgstr ""
+msgid "Alabama "
+msgstr "Алабама"
 
 #: ../lib/tribe-view-helpers.class.php:309
-msgid "Alaska"
-msgstr ""
+msgid "Alaska "
+msgstr "Аляска"
 
 #: ../lib/tribe-view-helpers.class.php:310
-msgid "Arizona"
-msgstr ""
+msgid "Arizona "
+msgstr "Арізона"
 
 #: ../lib/tribe-view-helpers.class.php:311
-msgid "Arkansas"
-msgstr ""
+msgid "Arkansas "
+msgstr "Арканзас"
 
 #: ../lib/tribe-view-helpers.class.php:312
-msgid "California"
-msgstr ""
+msgid "California "
+msgstr "Каліфорнія"
 
 #: ../lib/tribe-view-helpers.class.php:313
-msgid "Colorado"
-msgstr ""
+msgid "Colorado "
+msgstr "Колорадо"
 
 #: ../lib/tribe-view-helpers.class.php:314
-msgid "Connecticut"
-msgstr ""
+msgid "Connecticut "
+msgstr "Коннектикут"
 
 #: ../lib/tribe-view-helpers.class.php:315
-msgid "Delaware"
-msgstr ""
+msgid "Delaware "
+msgstr "Делавер"
 
 #: ../lib/tribe-view-helpers.class.php:316
-msgid "District of Columbia"
-msgstr ""
+msgid "District of Columbia "
+msgstr "Округ Колумбія"
 
 #: ../lib/tribe-view-helpers.class.php:317
-msgid "Florida"
-msgstr ""
+msgid "Florida "
+msgstr "Флорида"
 
 #: ../lib/tribe-view-helpers.class.php:319
-msgid "Hawaii"
-msgstr ""
+msgid "Hawaii "
+msgstr "Гаваї"
 
 #: ../lib/tribe-view-helpers.class.php:320
-msgid "Idaho"
-msgstr ""
+msgid "Idaho "
+msgstr "Айдахо"
 
 #: ../lib/tribe-view-helpers.class.php:321
-msgid "Illinois"
-msgstr ""
+msgid "Illinois "
+msgstr "Іллінойс"
 
 #: ../lib/tribe-view-helpers.class.php:322
-msgid "Indiana"
-msgstr ""
+msgid "Indiana "
+msgstr "Індіана"
 
 #: ../lib/tribe-view-helpers.class.php:323
-msgid "Iowa"
-msgstr ""
+msgid "Iowa "
+msgstr "Айова"
 
 #: ../lib/tribe-view-helpers.class.php:324
-msgid "Kansas"
-msgstr ""
+msgid "Kansas "
+msgstr "Канзас"
 
 #: ../lib/tribe-view-helpers.class.php:325
-msgid "Kentucky"
-msgstr ""
+msgid "Kentucky "
+msgstr "Кентуккі"
 
 #: ../lib/tribe-view-helpers.class.php:326
-msgid "Louisiana"
-msgstr ""
+msgid "Louisiana "
+msgstr "Луїзіана"
 
 #: ../lib/tribe-view-helpers.class.php:327
-msgid "Maine"
-msgstr ""
+msgid "Maine "
+msgstr "Мен"
 
 #: ../lib/tribe-view-helpers.class.php:328
-msgid "Maryland"
-msgstr ""
+msgid "Maryland "
+msgstr "Меріленд"
 
 #: ../lib/tribe-view-helpers.class.php:329
-msgid "Massachusetts"
-msgstr ""
+msgid "Massachusetts "
+msgstr "Массачусетс"
 
 #: ../lib/tribe-view-helpers.class.php:330
-msgid "Michigan"
-msgstr ""
+msgid "Michigan "
+msgstr "Мічиган"
 
 #: ../lib/tribe-view-helpers.class.php:331
-msgid "Minnesota"
-msgstr ""
+msgid "Minnesota "
+msgstr "Міннесота"
 
 #: ../lib/tribe-view-helpers.class.php:332
-msgid "Mississippi"
-msgstr ""
+msgid "Mississippi "
+msgstr "Міссісіпі"
 
 #: ../lib/tribe-view-helpers.class.php:333
-msgid "Missouri"
-msgstr ""
+msgid "Missouri "
+msgstr "Міссурі"
 
 #: ../lib/tribe-view-helpers.class.php:334
-msgid "Montana"
-msgstr ""
+msgid "Montana "
+msgstr "Монтана"
 
 #: ../lib/tribe-view-helpers.class.php:335
-msgid "Nebraska"
-msgstr ""
+msgid "Nebraska "
+msgstr "Небраска"
 
 #: ../lib/tribe-view-helpers.class.php:336
-msgid "Nevada"
-msgstr ""
+msgid "Nevada "
+msgstr "Невада"
 
 #: ../lib/tribe-view-helpers.class.php:337
-msgid "New Hampshire"
-msgstr ""
+msgid "New Hampshire "
+msgstr "Нью -Гемпшир"
 
 #: ../lib/tribe-view-helpers.class.php:338
-msgid "New Jersey"
-msgstr ""
+msgid "New Jersey "
+msgstr "Нью- Джерсі"
 
 #: ../lib/tribe-view-helpers.class.php:339
-msgid "New Mexico"
-msgstr ""
+msgid "New Mexico "
+msgstr "Нью -Мексико"
 
 #: ../lib/tribe-view-helpers.class.php:340
-msgid "New York"
-msgstr ""
+msgid "New York "
+msgstr "Нью -Йорк"
 
 #: ../lib/tribe-view-helpers.class.php:341
-msgid "North Carolina"
-msgstr ""
+msgid "North Carolina "
+msgstr "Північна Кароліна"
 
 #: ../lib/tribe-view-helpers.class.php:342
-msgid "North Dakota"
-msgstr ""
+msgid "North Dakota "
+msgstr "Північна Дакота"
 
 #: ../lib/tribe-view-helpers.class.php:343
-msgid "Ohio"
-msgstr ""
+msgid "Ohio "
+msgstr "Огайо"
 
 #: ../lib/tribe-view-helpers.class.php:344
-msgid "Oklahoma"
-msgstr ""
+msgid "Oklahoma "
+msgstr "Оклахома"
 
 #: ../lib/tribe-view-helpers.class.php:345
-msgid "Oregon"
-msgstr ""
+msgid "Oregon "
+msgstr "Орегон"
 
 #: ../lib/tribe-view-helpers.class.php:346
-msgid "Pennsylvania"
-msgstr ""
+msgid "Pennsylvania "
+msgstr "Пенсільванія"
 
 #: ../lib/tribe-view-helpers.class.php:347
-msgid "Rhode Island"
-msgstr ""
+msgid "Rhode Island "
+msgstr "Род-Айленд"
 
 #: ../lib/tribe-view-helpers.class.php:348
-msgid "South Carolina"
-msgstr ""
+msgid "South Carolina "
+msgstr "Південна Кароліна"
 
 #: ../lib/tribe-view-helpers.class.php:349
-msgid "South Dakota"
-msgstr ""
+msgid "South Dakota "
+msgstr "Південна Дакота"
 
 #: ../lib/tribe-view-helpers.class.php:350
-msgid "Tennessee"
-msgstr ""
+msgid "Tennessee "
+msgstr "Теннессі"
 
 #: ../lib/tribe-view-helpers.class.php:351
-msgid "Texas"
-msgstr ""
+msgid "Texas "
+msgstr "Техас"
 
 #: ../lib/tribe-view-helpers.class.php:352
-msgid "Utah"
-msgstr ""
+msgid "Utah "
+msgstr "Юта"
 
 #: ../lib/tribe-view-helpers.class.php:353
-msgid "Vermont"
-msgstr ""
+msgid "Vermont "
+msgstr "Вермонт"
 
 #: ../lib/tribe-view-helpers.class.php:354
-msgid "Virginia"
-msgstr ""
+msgid "Virginia "
+msgstr "Вірджинія"
 
 #: ../lib/tribe-view-helpers.class.php:355
-msgid "Washington"
-msgstr ""
+msgid "Washington "
+msgstr "Вашингтон"
 
 #: ../lib/tribe-view-helpers.class.php:356
-msgid "West Virginia"
-msgstr ""
+msgid "West Virginia "
+msgstr "Західна Вірджинія"
 
 #: ../lib/tribe-view-helpers.class.php:357
-msgid "Wisconsin"
-msgstr ""
+msgid "Wisconsin "
+msgstr "Вісконсін"
 
 #: ../lib/tribe-view-helpers.class.php:358
-msgid "Wyoming"
-msgstr ""
+msgid "Wyoming "
+msgstr "Вайомінг"
 
 #: ../lib/widget-list.class.php:21
 msgid "A widget that displays upcoming events."
-msgstr ""
+msgstr "Віджет, який відображає заплановані події."
 
 #: ../lib/widget-list.class.php:27
 msgid "Events List"
-msgstr ""
+msgstr "Список подій"
 
 #: ../lib/widget-list.class.php:129
 msgid "View All Events"
-msgstr ""
+msgstr "Переглянути всі події"
 
 #: ../lib/widget-list.class.php:131
 msgid "View All Events in Category"
-msgstr ""
+msgstr "Переглянути всі події у категорії"
 
 #: ../lib/widget-list.class.php:136
 msgid "There are no upcoming events at this time."
-msgstr ""
+msgstr "Там немає майбутніх подій в цей час."
 
 #: ../lib/io/csv/admin-views/columns.php:22
 #, php-format
 msgid "Column Mapping: %s"
-msgstr ""
+msgstr "Відображення стовпців: %s"
 
 #: ../lib/io/csv/admin-views/columns.php:28
 msgid "Please choose the fields that best match the columns in your CSV file."
 msgstr ""
+"Будь ласка, виберіть поля, які найкраще відповідають стовпцям у файлі CSV."
 
 #: ../lib/io/csv/admin-views/columns.php:33
 msgid "Column Headings"
-msgstr ""
+msgstr "Заголовки стовпців"
 
 #: ../lib/io/csv/admin-views/columns.php:34
 msgid "Event Fields"
-msgstr ""
+msgstr "Поля події"
 
 #: ../lib/io/csv/admin-views/columns.php:45
 msgid "Perform Import"
-msgstr ""
+msgstr "Виконайте імпорт"
 
 #: ../lib/io/csv/admin-views/header.php:11
 msgid "Events Import (CSV)"
-msgstr ""
+msgstr "Імпорт подій у (CSV)"
 
 #: ../lib/io/csv/admin-views/import.php:17
 msgid "Import Instructions"
-msgstr ""
+msgstr "Ымпортувати інструкції"
 
 #: ../lib/io/csv/admin-views/import.php:20
 msgid "If your events have Organizers or Venues, please import those first."
@@ -3361,7 +3350,7 @@ msgstr "Назва організатора"
 
 #: ../lib/io/csv/classes/TribeEventsImporter_ColumnMapper.php:84
 msgid "Organizer Email"
-msgstr " Email організатора"
+msgstr "Email організатора"
 
 #: ../lib/io/csv/classes/TribeEventsImporter_ColumnMapper.php:85
 msgid "Organizer Website"
@@ -3374,7 +3363,7 @@ msgstr "Телефон організатора"
 #: ../lib/io/csv/classes/TribeEventsImporter_FileImporter.php:38
 #, php-format
 msgid "No importer defined for %s"
-msgstr ""
+msgstr "Певно нема імпорту для %s"
 
 #: ../lib/io/csv/classes/TribeEventsImporter_FileImporter.php:110
 #, php-format
@@ -3562,7 +3551,7 @@ msgstr "Деталі"
 
 #: ../public/advanced-functions/meta.php:345
 msgid "Event Tags:"
-msgstr "Тегі події:"
+msgstr "Мітки події:"
 
 #: ../public/advanced-functions/meta.php:371
 msgid "Origin:"
@@ -3578,7 +3567,7 @@ msgstr "Категорія"
 
 #: ../public/template-tags/general.php:308
 msgid "Tags:"
-msgstr "Тегі:"
+msgstr "Мітки:"
 
 #: ../public/template-tags/general.php:409
 msgid "Loading Events"
@@ -3612,6 +3601,9 @@ msgid ""
 "You <strong>cannot</strong> use the same slug as above. The above should "
 "ideally be plural, and this singular.<br />Your single Event URL is like: %s"
 msgstr ""
+"Ви <strong> не може </ STRONG> використовувати той же короткий URL, що й "
+"вище. Вище в ідеалі має бути узагальнюючий, а цей індивідуальний <br /> Ваш "
+"URL події:  %s"
 
 #: ../views/single-event.php:23
 msgid "&laquo; All Events"
@@ -3627,7 +3619,7 @@ msgstr "Перегляд переліком"
 
 #: ../views/list/single-event.php:76
 msgid "Find out more"
-msgstr ""
+msgstr "Дізнайтеся більше"
 
 #: ../views/modules/bar.php:34 ../views/modules/bar.php:64
 msgid "Find Events"
