@@ -2,13 +2,13 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Community Events 3.2\n"
 "POT-Creation-Date: 2014-02-04 18:22-0800\n"
-"PO-Revision-Date: 2014-03-25 11:08+0300\n"
+"PO-Revision-Date: 2014-03-25 17:28+0200\n"
 "Last-Translator: Василий Вишняков <salsero@chillidance.com>\n"
 "Language-Team: Modern Tribe, Inc. <support@tri.be>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.5.4\n"
+"X-Generator: Poedit 1.6.4\n"
 "X-Poedit-KeywordsList: __;_e\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-SourceCharset: UTF-8\n"
@@ -31,23 +31,23 @@ msgstr ""
 
 #: ../admin-views/community-options-template.php:37
 msgid "Placed in the Trash"
-msgstr ""
+msgstr "Переміщено у смітник"
 
 #: ../admin-views/community-options-template.php:38
 msgid "Permanently Deleted"
-msgstr ""
+msgstr "Остаточно видалені"
 
 #: ../admin-views/community-options-template.php:46
 msgid "No Default"
-msgstr ""
+msgstr "Не за замовчуванням"
 
 #: ../admin-views/community-options-template.php:54
 msgid "Use New Venue/No Default"
-msgstr ""
+msgstr "Використати нове місце проведення/Не за замовчуванням"
 
 #: ../admin-views/community-options-template.php:70
 msgid "Community Events Settings"
-msgstr ""
+msgstr "Налаштування Community Events"
 
 #: ../admin-views/community-options-template.php:75
 #, php-format
@@ -63,11 +63,11 @@ msgstr ""
 
 #: ../admin-views/community-options-template.php:85
 msgid "General"
-msgstr ""
+msgstr "Головні"
 
 #: ../admin-views/community-options-template.php:91
 msgid "Allow anonymous submissions"
-msgstr ""
+msgstr "Дозволити анонімні матеріали"
 
 #: ../admin-views/community-options-template.php:92
 msgid ""
@@ -95,39 +95,39 @@ msgstr ""
 
 #: ../admin-views/community-options-template.php:135
 msgid "Alerts"
-msgstr ""
+msgstr "Сповіщення"
 
 #: ../admin-views/community-options-template.php:140
 msgid "Send an email alert when a new event is submitted"
-msgstr ""
+msgstr "Сповістити мене на email, коли буде додано нову подію"
 
 #: ../admin-views/community-options-template.php:148
 msgid "Email addresses to be notified"
-msgstr ""
+msgstr "Email адреса для нагадування"
 
 #: ../admin-views/community-options-template.php:151
 msgid "One address per line"
-msgstr ""
+msgstr "Одна адреса у строчці"
 
 #: ../admin-views/community-options-template.php:157
 msgid "Members"
-msgstr ""
+msgstr "Користувачі"
 
 #: ../admin-views/community-options-template.php:162
 msgid "Control the permissions for your logged in users. Allow them to:"
-msgstr ""
+msgstr "Контроль дозволів для авторизованих користувачів. Дозволити їм:"
 
 #: ../admin-views/community-options-template.php:167
 msgid "Edit their submissions"
-msgstr ""
+msgstr "Редагувати їх матеріали"
 
 #: ../admin-views/community-options-template.php:175
 msgid "Remove their submissions"
-msgstr ""
+msgstr "Видалити їх матеріали"
 
 #: ../admin-views/community-options-template.php:183
 msgid "Deleted events should be:"
-msgstr ""
+msgstr "Видалити події, які повинні бути:"
 
 #: ../admin-views/community-options-template.php:192
 #: ../lib/tribe-community-events.class.php:535
@@ -135,11 +135,11 @@ msgstr ""
 #: ../views/community/modules/delete.php:24
 #: ../views/community/modules/header-links.php:18
 msgid "My Events"
-msgstr ""
+msgstr "Мої події"
 
 #: ../admin-views/community-options-template.php:197
 msgid "Events per page"
-msgstr ""
+msgstr "Подій на сторінку"
 
 #: ../admin-views/community-options-template.php:198
 msgid "This is the number of events displayed per page"
@@ -151,11 +151,11 @@ msgstr ""
 
 #: ../admin-views/community-options-template.php:207
 msgid "Help with date &amp; time formatting"
-msgstr ""
+msgstr "Допомога з форматом дати &amp; часу"
 
 #: ../admin-views/community-options-template.php:215
 msgid "Access Control"
-msgstr ""
+msgstr "Контроль доступу"
 
 #: ../admin-views/community-options-template.php:220
 msgid "Block access to WordPress dashboard"
@@ -194,64 +194,64 @@ msgstr ""
 
 #: ../lib/tribe-community-events.class.php:264
 msgid "edit"
-msgstr ""
+msgstr "редагувати"
 
 #: ../lib/tribe-community-events.class.php:265
 msgid "add"
-msgstr ""
+msgstr "додати"
 
 #: ../lib/tribe-community-events.class.php:266
 msgid "delete"
-msgstr ""
+msgstr "видалити"
 
 #: ../lib/tribe-community-events.class.php:267
 msgid "list"
-msgstr ""
+msgstr "список"
 
 #: ../lib/tribe-community-events.class.php:269
 msgid "venue"
-msgstr ""
+msgstr "місце проведення"
 
 #: ../lib/tribe-community-events.class.php:270
 msgid "organizer"
-msgstr ""
+msgstr "організатор"
 
 #: ../lib/tribe-community-events.class.php:271
 msgid "event"
-msgstr ""
+msgstr "подія"
 
 #: ../lib/tribe-community-events.class.php:419
 #: ../lib/tribe-community-events.class.php:922
 msgid "Edit a Venue"
-msgstr ""
+msgstr "Редагувати місце проведення"
 
 #: ../lib/tribe-community-events.class.php:438
 #: ../lib/tribe-community-events.class.php:925
 msgid "Edit an Organizer"
-msgstr ""
+msgstr "Редагувати організатора"
 
 #: ../lib/tribe-community-events.class.php:456
 #: ../lib/tribe-community-events.class.php:919
 msgid "Edit an Event"
-msgstr ""
+msgstr "Редагувати подію"
 
 #: ../lib/tribe-community-events.class.php:475
 msgid "Redirect"
-msgstr ""
+msgstr "Перенаправити"
 
 #: ../lib/tribe-community-events.class.php:493
 #: ../lib/tribe-community-events.class.php:1023
 msgid "Submit an Event"
-msgstr ""
+msgstr "Підтвердити подію"
 
 #: ../lib/tribe-community-events.class.php:519
 #: ../lib/tribe-community-events.class.php:904
 msgid "Remove an Event"
-msgstr ""
+msgstr "Видалити подію"
 
 #: ../lib/tribe-community-events.class.php:608
 msgid "Not found."
-msgstr ""
+msgstr "Не знайдено."
 
 #: ../lib/tribe-community-events.class.php:752
 msgid ""
@@ -268,11 +268,11 @@ msgstr ""
 #: ../lib/tribe-community-events.class.php:829
 #: ../lib/tribe-community-events.class.php:834
 msgid "Delete"
-msgstr ""
+msgstr "Видалити"
 
 #: ../lib/tribe-community-events.class.php:834
 msgid "Are you sure?"
-msgstr ""
+msgstr "Ви впевнені?"
 
 #: ../lib/tribe-community-events.class.php:907
 msgid "Remove a Venue"
@@ -285,7 +285,7 @@ msgstr ""
 #: ../lib/tribe-community-events.class.php:913
 #: ../lib/tribe-community-events.class.php:928
 msgid "Unknown Post Type"
-msgstr ""
+msgstr "Невідомий тип повідомлення"
 
 #: ../lib/tribe-community-events.class.php:1061
 msgid "This shortcode can only be used in pages."
@@ -293,31 +293,31 @@ msgstr ""
 
 #: ../lib/tribe-community-events.class.php:1288
 msgid "Community Events Submission"
-msgstr ""
+msgstr "Представлення Community Events"
 
 #: ../lib/tribe-community-events.class.php:1294
 msgid "Event Organizer"
-msgstr ""
+msgstr "Організатор події"
 
 #: ../lib/tribe-community-events.class.php:1295
 msgid "Event Venue"
-msgstr ""
+msgstr "Місце проведення події"
 
 #: ../lib/tribe-community-events.class.php:1296
 msgid "Description"
-msgstr ""
+msgstr "Опис"
 
 #: ../lib/tribe-community-events.class.php:1297
 msgid "Review Event"
-msgstr ""
+msgstr "Огляд подій"
 
 #: ../lib/tribe-community-events.class.php:1398
 msgid "Trashed Event #"
-msgstr ""
+msgstr "Видалені події #"
 
 #: ../lib/tribe-community-events.class.php:1401
 msgid "Deleted Event #"
-msgstr ""
+msgstr "Видалена подія #"
 
 #: ../lib/tribe-community-events.class.php:1410
 #, php-format
@@ -667,7 +667,7 @@ msgstr ""
 #: ../views/community/modules/delete.php:29
 #: ../views/community/modules/header-links.php:19
 msgid "Log Out"
-msgstr ""
+msgstr "Вихід"
 
 #: ../views/community/event-list.php:51
 msgid "There are no upcoming events in your queue."
@@ -675,23 +675,23 @@ msgstr ""
 
 #: ../views/community/event-list.php:66
 msgid "Status"
-msgstr ""
+msgstr "Статус"
 
 #: ../views/community/event-list.php:67
 msgid "Title"
-msgstr ""
+msgstr "Назва"
 
 #: ../views/community/event-list.php:68
 msgid "Organizer"
-msgstr ""
+msgstr "Організатор"
 
 #: ../views/community/event-list.php:69
 msgid "Venue"
-msgstr ""
+msgstr "Місце проведення"
 
 #: ../views/community/event-list.php:70
 msgid "Category"
-msgstr ""
+msgstr "Категорія"
 
 #: ../views/community/event-list.php:72
 msgid "Recurring?"
@@ -699,31 +699,31 @@ msgstr ""
 
 #: ../views/community/event-list.php:73
 msgid "Start Date"
-msgstr ""
+msgstr "Дата початку"
 
 #: ../views/community/event-list.php:74
 msgid "End Date"
-msgstr ""
+msgstr "Дата завершення"
 
 #: ../views/community/event-list.php:140
 msgid "Yes"
-msgstr ""
+msgstr "Так"
 
 #: ../views/community/event-list.php:142
 msgid "No"
-msgstr ""
+msgstr "Ні"
 
 #: ../views/community/modules/cost.php:28
 msgid "Event Cost"
-msgstr ""
+msgstr "Ціна події"
 
 #: ../views/community/modules/cost.php:34
 msgid "Currency Symbol"
-msgstr ""
+msgstr "Символ валюти"
 
 #: ../views/community/modules/cost.php:44
 msgid "Cost"
-msgstr ""
+msgstr "Ціна"
 
 #: ../views/community/modules/cost.php:51
 msgid "Leave blank to hide the field. Enter a 0 for events that are free."
@@ -735,7 +735,7 @@ msgstr ""
 
 #: ../views/community/modules/datepickers.php:37
 msgid "Event Time &amp; Date"
-msgstr ""
+msgstr "Час &amp; Дата події"
 
 #: ../views/community/modules/datepickers.php:43
 msgid ""
@@ -746,236 +746,236 @@ msgstr ""
 
 #: ../views/community/modules/datepickers.php:48
 msgid "All day event?"
-msgstr ""
+msgstr "Подія на весь день?"
 
 #: ../views/community/modules/datepickers.php:56
 msgid "Start Date / Time:"
-msgstr ""
+msgstr "Початок Дата/Час:"
 
 #: ../views/community/modules/datepickers.php:60
 #: ../views/community/modules/datepickers.php:71
 msgid "YYYY-MM-DD"
-msgstr ""
+msgstr "YYYY-MM-DD"
 
 #: ../views/community/modules/datepickers.php:68
 msgid "End Date / Time:"
-msgstr ""
+msgstr "Кінець Дата/Час:"
 
 #: ../views/community/modules/image.php:26
 msgid "Event Image"
-msgstr ""
+msgstr "Картинка події"
 
 #: ../views/community/modules/image.php:32
 msgid "Upload"
-msgstr ""
+msgstr "Завантажити"
 
 #: ../views/community/modules/image.php:44
 msgid "Images that are not png, jpg, or gif will not be uploaded."
-msgstr ""
+msgstr "Зображення, що не PNG, JPG, або GIF не будуть завантажені."
 
 #: ../views/community/modules/organizer.php:34
 msgid "Event Organizer Details"
-msgstr ""
+msgstr "Деталі про організатора події"
 
 #: ../views/community/modules/organizer.php:44
 msgid "Organizer Name"
-msgstr ""
+msgstr "Назва організатора"
 
 #: ../views/community/modules/organizer.php:56
 #: ../views/community/modules/venue.php:144
 msgid "Phone"
-msgstr ""
+msgstr "Телефон"
 
 #: ../views/community/modules/organizer.php:66
 msgid "Website"
-msgstr ""
+msgstr "Сайт"
 
 #: ../views/community/modules/organizer.php:75
 msgid "Email"
-msgstr ""
+msgstr "Email"
 
 #: ../views/community/modules/recurrence-dialog.php:23
 msgid "Which events do you wish to update?"
-msgstr ""
+msgstr "Які події ви хочете оновити?"
 
 #: ../views/community/modules/recurrence-dialog.php:26
 msgid "Delete Recurring Event"
-msgstr ""
+msgstr "Видалити подію, що повторюється"
 
 #: ../views/community/modules/recurrence-dialog.php:27
 msgid "Select your desired action"
-msgstr ""
+msgstr "Виберіть потрібну дію"
 
 #: ../views/community/modules/recurrence.php:75
 msgid "Recurrence:"
-msgstr ""
+msgstr "Повторення:"
 
 #: ../views/community/modules/recurrence.php:82
 msgid "None"
-msgstr ""
+msgstr "Жоден"
 
 #: ../views/community/modules/recurrence.php:83
 msgid "Every Day"
-msgstr ""
+msgstr "Кожен день"
 
 #: ../views/community/modules/recurrence.php:84
 msgid "Every Week"
-msgstr ""
+msgstr "Кожен тиждень"
 
 #: ../views/community/modules/recurrence.php:85
 msgid "Every Month"
-msgstr ""
+msgstr "Кожен місяць"
 
 #: ../views/community/modules/recurrence.php:86
 msgid "Every Year"
-msgstr ""
+msgstr "Кожен рік"
 
 #: ../views/community/modules/recurrence.php:87
 msgid "Custom"
-msgstr ""
+msgstr "Вибір"
 
 #: ../views/community/modules/recurrence.php:91
 msgid "End"
-msgstr ""
+msgstr "Кінець"
 
 #: ../views/community/modules/recurrence.php:94
 msgid "On"
-msgstr ""
+msgstr "На"
 
 #: ../views/community/modules/recurrence.php:95
 msgid "After"
-msgstr ""
+msgstr "Після"
 
 #: ../views/community/modules/recurrence.php:96
 msgid "Never"
-msgstr ""
+msgstr "Ніколи"
 
 #: ../views/community/modules/recurrence.php:109
 msgid "You must select a recurrence end date"
-msgstr ""
+msgstr "Ви маєте вибрати період та дату"
 
 #: ../views/community/modules/recurrence.php:119
 msgid "Frequency"
-msgstr ""
+msgstr "Частота"
 
 #: ../views/community/modules/recurrence.php:121
 msgid "Day(s)"
-msgstr ""
+msgstr "День (дні)"
 
 #: ../views/community/modules/recurrence.php:121
 msgid "Daily"
-msgstr ""
+msgstr "Щодня"
 
 #: ../views/community/modules/recurrence.php:122
 msgid "Week(s) on:"
-msgstr ""
+msgstr "Тиждень з:"
 
 #: ../views/community/modules/recurrence.php:122
 msgid "Weekly"
-msgstr ""
+msgstr "Щотижня"
 
 #: ../views/community/modules/recurrence.php:123
 msgid "Month(s) on the:"
-msgstr ""
+msgstr "Місяць з:"
 
 #: ../views/community/modules/recurrence.php:123
 msgid "Monthly"
-msgstr ""
+msgstr "Щомісяця"
 
 #: ../views/community/modules/recurrence.php:124
 msgid "Year(s) on:"
-msgstr ""
+msgstr "Рік з:"
 
 #: ../views/community/modules/recurrence.php:124
 msgid "Yearly"
-msgstr ""
+msgstr "Щороку"
 
 #: ../views/community/modules/recurrence.php:127
 msgid "Every"
-msgstr ""
+msgstr "Кожен"
 
 #: ../views/community/modules/recurrence.php:139
 msgid "M"
-msgstr ""
+msgstr "Пн"
 
 #: ../views/community/modules/recurrence.php:140
 msgid "Tu"
-msgstr ""
+msgstr "Вт"
 
 #: ../views/community/modules/recurrence.php:141
 msgid "W"
-msgstr ""
+msgstr "Ср"
 
 #: ../views/community/modules/recurrence.php:142
 msgid "Th"
-msgstr ""
+msgstr "Чт"
 
 #: ../views/community/modules/recurrence.php:143
 msgid "F"
-msgstr ""
+msgstr "Пт"
 
 #: ../views/community/modules/recurrence.php:144
 msgid "Sa"
-msgstr ""
+msgstr "Сб"
 
 #: ../views/community/modules/recurrence.php:145
 msgid "Su"
-msgstr ""
+msgstr "Нед"
 
 #: ../views/community/modules/recurrence.php:154
 #: ../views/community/modules/recurrence.php:204
 msgid "First"
-msgstr ""
+msgstr "Перший"
 
 #: ../views/community/modules/recurrence.php:155
 #: ../views/community/modules/recurrence.php:205
 msgid "Second"
-msgstr ""
+msgstr "Другий"
 
 #: ../views/community/modules/recurrence.php:156
 #: ../views/community/modules/recurrence.php:206
 msgid "Third"
-msgstr ""
+msgstr "Третій"
 
 #: ../views/community/modules/recurrence.php:157
 #: ../views/community/modules/recurrence.php:207
 msgid "Fourth"
-msgstr ""
+msgstr "Четвертий"
 
 #: ../views/community/modules/recurrence.php:158
 #: ../views/community/modules/recurrence.php:208
 msgid "Last"
-msgstr ""
+msgstr "Останній"
 
 #: ../views/community/modules/recurrence.php:165
 #: ../views/community/modules/recurrence.php:211
 msgid "Monday"
-msgstr ""
+msgstr "Понеділок"
 
 #: ../views/community/modules/recurrence.php:166
 #: ../views/community/modules/recurrence.php:212
 msgid "Tuesday"
-msgstr ""
+msgstr "Вівторок"
 
 #: ../views/community/modules/recurrence.php:167
 #: ../views/community/modules/recurrence.php:213
 msgid "Wednesday"
-msgstr ""
+msgstr "Середа"
 
 #: ../views/community/modules/recurrence.php:168
 #: ../views/community/modules/recurrence.php:214
 msgid "Thursday"
-msgstr ""
+msgstr "Четвер"
 
 #: ../views/community/modules/recurrence.php:169
 #: ../views/community/modules/recurrence.php:215
 msgid "Friday"
-msgstr ""
+msgstr "П'ятниця"
 
 #: ../views/community/modules/recurrence.php:170
 #: ../views/community/modules/recurrence.php:216
 msgid "Saturday"
-msgstr ""
+msgstr "Субота"
 
 #: ../views/community/modules/recurrence.php:171
 #: ../views/community/modules/recurrence.php:217
@@ -1001,15 +1001,15 @@ msgstr "Бер"
 
 #: ../views/community/modules/recurrence.php:186
 msgid "Apr"
-msgstr "Кві"
+msgstr "Квіт"
 
 #: ../views/community/modules/recurrence.php:187
 msgid "May"
-msgstr "Тра"
+msgstr "Трав"
 
 #: ../views/community/modules/recurrence.php:188
 msgid "Jun"
-msgstr "Чер"
+msgstr "Черв"
 
 #: ../views/community/modules/recurrence.php:192
 msgid "Jul"
@@ -1017,7 +1017,7 @@ msgstr "Лип"
 
 #: ../views/community/modules/recurrence.php:193
 msgid "Aug"
-msgstr "Сер"
+msgstr "Серп"
 
 #: ../views/community/modules/recurrence.php:194
 msgid "Sep"
@@ -1025,15 +1025,15 @@ msgstr "Вер"
 
 #: ../views/community/modules/recurrence.php:195
 msgid "Oct"
-msgstr "Жов"
+msgstr "Жовт"
 
 #: ../views/community/modules/recurrence.php:196
 msgid "Nov"
-msgstr "Лис"
+msgstr "Лист"
 
 #: ../views/community/modules/recurrence.php:197
 msgid "Dec"
-msgstr "Гру"
+msgstr "Груд"
 
 #: ../views/community/modules/recurrence.php:202
 msgid "On the:"

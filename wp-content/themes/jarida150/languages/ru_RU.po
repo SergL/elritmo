@@ -1,0 +1,708 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sahifa 1.3.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-05-12 16:44+0200\n"
+"PO-Revision-Date: 2014-03-03 15:23+0200\n"
+"Last-Translator: Василий Вишняков <salsero@chillidance.com>\n"
+"Language-Team: Tielabs <info@tielabs.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"Language: en_EG\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../404.php:6 ../loop.php:3 ../page.php:8
+msgid "Not Found"
+msgstr "Не найдено"
+
+#: ../404.php:9
+msgid ""
+"Apologies, but the page you requested could not be found. Perhaps searching "
+"will help."
+msgstr ""
+"Извините, но страница, которую вы запросили, не найдена. Возможно, поиск "
+"поможет."
+
+#: ../404.php:13
+msgid "Pages"
+msgstr "Страницы"
+
+#: ../404.php:18
+msgid "Categories"
+msgstr "Категории"
+
+#: ../404.php:23
+msgid "Tags"
+msgstr "Тэги"
+
+#: ../404.php:35
+msgid "Authors"
+msgstr "Авторы"
+
+#: ../archive.php:10
+#, php-format
+msgid "Daily Archives: <span>%s</span>"
+msgstr "Ежедневные архивы: <span>%s</span>"
+
+#: ../archive.php:12
+#, php-format
+msgid "Monthly Archives: <span>%s</span>"
+msgstr "Месячные архивы: <span>%s</span>"
+
+#: ../archive.php:14
+#, php-format
+msgid "Yearly Archives: <span>%s</span>"
+msgstr "Годовые архивы: <span>%s</span>"
+
+#: ../archive.php:16
+msgid "Blog Archives"
+msgstr "Архив блога"
+
+#: ../author.php:10
+#, php-format
+msgid "Author Archives: %s"
+msgstr "Авторские архивы: %s"
+
+#: ../author.php:13 ../category.php:11
+msgid "Feed Subscription"
+msgstr "Feed подписка"
+
+#: ../author.php:28
+msgid " 's site"
+msgstr ""
+
+#: ../author.php:31
+msgid "  on Twitter"
+msgstr "  в Twitter"
+
+#: ../author.php:34
+msgid "  on Facebook"
+msgstr "  в Facebook"
+
+#: ../author.php:37
+msgid "  on Google+"
+msgstr "  в Google+"
+
+#: ../author.php:40
+msgid "  on Linkedin"
+msgstr " в Linkedin"
+
+#: ../author.php:43
+msgid "  on Flickr"
+msgstr "  в Flickr"
+
+#: ../author.php:46
+msgid "  on YouTube"
+msgstr "  на YouTube"
+
+#: ../author.php:49
+msgid "  on Pinterest"
+msgstr "  в Pinterest"
+
+#: ../category.php:8
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Архив категории: %s"
+
+#: ../comments.php:3
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr "Пост закрыт паролем. Введите пароль для просмотра."
+
+#: ../comments.php:12
+msgid "No comments"
+msgstr "Нет комментариев"
+
+#: ../comments.php:12
+msgid "One comment"
+msgstr "1 комментарий"
+
+#: ../comments.php:12
+msgid "comments"
+msgstr "комментарии"
+
+#: ../comments.php:17
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr "<span class=\"meta-nav\">&larr;</span> Старые комментарии"
+
+#: ../comments.php:18
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Свежие комментарии <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../comments.php:45
+msgid "Name"
+msgstr "Имя"
+
+#: ../comments.php:47
+msgid "Email"
+msgstr "Email"
+
+#: ../comments.php:49
+msgid "Website"
+msgstr "Website"
+
+#: ../comments.php:52
+msgid " Required fields are marked"
+msgstr "Обязательные для заполнения поля помечены"
+
+#: ../comments.php:56
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Вы должны быть <a href=\"%s\">залогинены</a>для комментирования"
+
+#: ../comments.php:57
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+"Вы вошли как <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Выйти из "
+"аккаунта\">Выйти?</a>"
+
+#: ../comments.php:58
+msgid "Your email address will not be published."
+msgstr "Ваш email нигде не будет показан"
+
+#: ../comments.php:59
+msgid "Leave a Reply"
+msgstr "Оставить комментарий"
+
+#: ../comments.php:60
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Оставить комментарий к %s"
+
+#: ../comments.php:61
+msgid "Cancel reply"
+msgstr "Отменить написание"
+
+#: ../comments.php:62
+msgid "Post Comment"
+msgstr "Комментировать"
+
+#: ../footer.php:20
+msgid "Scroll To Top"
+msgstr "На верх"
+
+#: ../header.php:13
+#, php-format
+msgid "Page %s"
+msgstr "Страница %s"
+
+#: ../header.php:29
+msgid "Search"
+msgstr "Поиск"
+
+#: ../header.php:30
+msgid "Search..."
+msgstr "Поиск..."
+
+#: ../loop.php:5 ../page.php:10
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr "Извините, но запрошенный вами архив не найден. Возможно поиск поможет."
+
+#: ../loop.php:18 ../loop.php:57
+msgid "0"
+msgstr "0"
+
+#: ../loop.php:18 ../loop.php:57
+msgid "1 Comment"
+msgstr "1 Комментарий"
+
+#: ../loop.php:18 ../loop.php:57
+msgid "% Comments"
+msgstr "% Высказались"
+
+#: ../loop.php:24 ../loop.php:37 ../loop.php:62
+msgid "Read More &raquo;"
+msgstr "Читать далее &raquo;"
+
+#: ../page.php:33
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: ../page.php:35
+msgid "Edit"
+msgstr "Редактировать"
+
+#: ../search.php:9
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Результаты поиска для:  %s"
+
+#: ../search.php:11
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: ../search.php:23
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+"Все облазили, но такого тут нет вообще ни разу! Может попробовать с другими "
+"словами?"
+
+#: ../single.php:55
+msgid "Tagged with: "
+msgstr "С тегами: "
+
+#: ../single.php:67
+msgid "Previous:"
+msgstr "Предыдущий"
+
+#: ../single.php:68
+msgid "Next:"
+msgstr "Следующий:"
+
+#: ../single.php:75
+msgid "About"
+msgstr "О"
+
+#: ../tag.php:8
+#, php-format
+msgid "Tag Archives: %s"
+msgstr "Архив тэгов: %s"
+
+#: ../template-restrict.php:44
+msgid "You must be "
+msgstr "Вы должны быть"
+
+#: ../template-restrict.php:44
+msgid "logged in"
+msgstr "вошел как"
+
+#: ../template-restrict.php:44
+msgid " to view this page."
+msgstr "для просмотра страницы."
+
+#: ../template-timeline.php:61
+#, php-format
+msgid "Permalink to %s"
+msgstr "Постоянная ссылка на %s"
+
+#: ../functions/common-scripts.php:43
+msgid "Go to..."
+msgstr "Перейти"
+
+#: ../functions/common-scripts.php:46
+msgid "Your Rating:"
+msgstr "Ваш рейтинг:"
+
+#: ../functions/theme-functions.php:40
+msgid "Top Menu Navigation"
+msgstr "Верхнее меню навигации"
+
+#: ../functions/theme-functions.php:41
+msgid "Primary Navigation"
+msgstr "Основная навигация"
+
+#: ../functions/theme-functions.php:60
+msgid "You can use WP menu builder to build menus"
+msgstr "Используйте стандартное WP меню"
+
+#: ../functions/theme-functions.php:606
+msgid "Social Networking"
+msgstr "Социальные сети"
+
+#: ../functions/theme-functions.php:691
+msgid "No items."
+msgstr "Нет элементов."
+
+#: ../functions/theme-functions.php:696
+msgid "Posted "
+msgstr "Опубликовано"
+
+#: ../functions/theme-functions.php:1103
+msgid "Welcome"
+msgstr "Приветик"
+
+#: ../functions/theme-functions.php:1106
+msgid "Dashboard"
+msgstr "Админка"
+
+#: ../functions/theme-functions.php:1107
+msgid "Your Profile"
+msgstr "Твой профиль"
+
+#: ../functions/theme-functions.php:1108
+msgid "Logout"
+msgstr "Выйти"
+
+#: ../functions/theme-functions.php:1142
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: ../functions/theme-functions.php:1143
+msgid "Password"
+msgstr "Пароль"
+
+#: ../functions/theme-functions.php:1144
+msgid "Log in"
+msgstr "Войти"
+
+#: ../functions/theme-functions.php:1145
+msgid "Remember Me"
+msgstr "Запомнить меня"
+
+#: ../functions/theme-functions.php:1150
+msgid "Lost your password?"
+msgstr "Потерял пароль?"
+
+#: ../functions/theme-functions.php:1221
+msgid "Review Overview"
+msgstr "Обзор"
+
+#: ../functions/theme-functions.php:1273
+msgid "Summary :"
+msgstr "Итог:"
+
+#: ../functions/theme-functions.php:1400
+msgid "No Ratings Yet !"
+msgstr "Пока не оценивали !"
+
+#: ../functions/theme-functions.php:1404
+msgid "Be the first one !"
+msgstr "Будьте первым !"
+
+#: ../functions/theme-functions.php:1423 ../functions/theme-functions.php:1429
+#: ../functions/theme-functions.php:1436
+msgid "votes"
+msgstr "голосов"
+
+#: ../functions/theme-functions.php:1434 ../functions/theme-functions.php:1436
+msgid "User Rating:"
+msgstr "Рейтинг пользователей"
+
+#: ../functions/theme-functions.php:1458 ../functions/theme-functions.php:1465
+#: ../functions/theme-functions.php:1471 ../functions/theme-functions.php:1477
+msgid "ago"
+msgstr "тому назад"
+
+#: ../functions/tie-views.php:16 ../functions/tie-views.php:42
+msgid "Views"
+msgstr "Просмотров"
+
+#: ../functions/widgetize-theme.php:12
+msgid "Primary Normal Widget Area"
+msgstr "Основная область виджетов"
+
+#: ../functions/widgetize-theme.php:14 ../functions/widgetize-theme.php:30
+#: ../functions/widgetize-theme.php:37
+msgid "The Primary Normal widget area appears in all pages / archives"
+msgstr "Основная область виджетов для всех страниц и архивов"
+
+#: ../functions/widgetize-theme.php:20
+msgid "Primary Narrow Widget Area"
+msgstr "Основная, узкая область виджетов"
+
+#: ../functions/widgetize-theme.php:22 ../functions/widgetize-theme.php:45
+#: ../functions/widgetize-theme.php:52
+msgid "The Primary Narrow widget area appears in all pages / archives"
+msgstr "Основная, узкая область виджетов для всех страниц и архивов"
+
+#: ../functions/widgetize-theme.php:28
+msgid "Homepage - First Normal Widget Area"
+msgstr "Главная - первая основная зона виджетов"
+
+#: ../functions/widgetize-theme.php:35
+msgid "Homepage - Second Normal Widget Area"
+msgstr "Главная - вторая основная зона виджетов"
+
+#: ../functions/widgetize-theme.php:43
+msgid "Homepage - First Narrow Widget Area"
+msgstr "Главная - первая, узкая область виджетов"
+
+#: ../functions/widgetize-theme.php:50
+msgid "Homepage - Second Narrow Widget Area"
+msgstr "Главная - вторая, узкая область виджетов"
+
+#: ../functions/widgetize-theme.php:59
+msgid "Shop - For WooCommerce Pages"
+msgstr "Shop - для страниц магазина на WooCommerce"
+
+#: ../functions/widgetize-theme.php:61
+msgid "This widget area uses in the WooCommerce pages ."
+msgstr "Этот виджет использует для WooCommerce страниц ."
+
+#: ../functions/widgetize-theme.php:91
+msgid "First Footer Widget Area"
+msgstr "Первая область виджетов в футере (внизу сайта)"
+
+#: ../functions/widgetize-theme.php:93
+msgid "The first footer widget area"
+msgstr "Это первая область виджетов в футере (внизу сайта)"
+
+#: ../functions/widgetize-theme.php:99
+msgid "Second Footer Widget Area"
+msgstr "Вторая область виджетов в футере (внизу сайта)"
+
+#: ../functions/widgetize-theme.php:101
+msgid "The Second footer widget area"
+msgstr "Это вторая область виджетов в футере (внизу сайта)"
+
+#: ../functions/widgetize-theme.php:108
+msgid "Third Footer Widget Area"
+msgstr "Третья область виджетов в футере (внизу сайта)"
+
+#: ../functions/widgetize-theme.php:110
+msgid "The Third footer widget area"
+msgstr "Это третья область виджетов в футере (внизу сайта)"
+
+#: ../functions/widgetize-theme.php:117
+msgid "Fourth Footer Widget Area"
+msgstr "Четвертая область виджетов в футере (внизу сайта)"
+
+#: ../functions/widgetize-theme.php:119
+msgid "The Fourth footer widget area"
+msgstr "Это четвертая область виджетов в футере (внизу сайта)"
+
+#: ../includes/breadcrumbs.php:15
+msgid "Home"
+msgstr "Главная"
+
+#: ../includes/breadcrumbs.php:106
+msgid "page "
+msgstr "страница "
+
+#: ../includes/breaking-news.php:19
+msgid "Don't Miss"
+msgstr "Не пропусти"
+
+#: ../includes/pagenavi.php:145
+msgid "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
+msgstr "Страница %CURRENT_PAGE% из %TOTAL_PAGES%"
+
+#: ../includes/pagenavi.php:148
+msgid "&laquo; First"
+msgstr "&laquo; Первая"
+
+#: ../includes/pagenavi.php:149
+msgid "Last &raquo;"
+msgstr "Последняя &raquo;"
+
+#: ../includes/pagenavi.php:150
+msgid "&raquo;"
+msgstr ""
+
+#: ../includes/pagenavi.php:151
+msgid "&laquo;"
+msgstr ""
+
+#: ../includes/pagenavi.php:152 ../includes/pagenavi.php:153
+msgid "..."
+msgstr ""
+
+#: ../includes/post-meta.php:6
+msgid "Posted by: "
+msgstr "Опубликовал: "
+
+#: ../includes/post-meta.php:9
+msgid "in "
+msgstr "в"
+
+#: ../includes/post-meta.php:12
+msgid "on "
+msgstr "на"
+
+#: ../includes/post-related.php:29
+msgid "Related Articles"
+msgstr "Похожие статьи"
+
+#: ../includes/wp_list_comments.php:9
+#, php-format
+msgid "%s "
+msgstr ""
+
+#: ../includes/wp_list_comments.php:10
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../includes/wp_list_comments.php:10 ../includes/wp_list_comments.php:30
+msgid "(Edit)"
+msgstr "(редактировать)"
+
+#: ../includes/wp_list_comments.php:15
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает можерации."
+
+#: ../includes/wp_list_comments.php:30
+msgid "Pingback:"
+msgstr ""
+
+#: ../includes/widgets/widget-ads.php:72
+#: ../includes/widgets/widget-ads.php:183
+#: ../includes/widgets/widget-ads.php:294
+#: ../includes/widgets/widget-ads.php:404
+#: ../includes/widgets/widget-ads.php:514
+#: ../includes/widgets/widget-ads.php:621
+#: ../includes/widgets/widget-ads.php:721
+#: ../includes/widgets/widget-ads.php:822
+#: ../includes/widgets/widget-ads.php:926
+#: ../includes/widgets/widget-ads.php:1029
+msgid " Advertisement"
+msgstr "Реклама"
+
+#: ../includes/widgets/widget-author.php:21
+#, php-format
+msgid "About %s"
+msgstr "О %s"
+
+#: ../includes/widgets/widget-author.php:89
+#, php-format
+msgid "By %s"
+msgstr "По %s"
+
+#: ../includes/widgets/widget-author.php:97
+msgid "All"
+msgstr "Все"
+
+#: ../includes/widgets/widget-authors-posts.php:46
+msgid "Authors Posts"
+msgstr "Автор записей"
+
+#: ../includes/widgets/widget-category.php:46
+msgid "Category Posts"
+msgstr "Категория Записи"
+
+#: ../includes/widgets/widget-comments-avatar.php:42
+msgid "Recent Comments"
+msgstr "Последние комментарии"
+
+#: ../includes/widgets/widget-counter.php:43
+#: ../includes/widgets/widget-feedburner.php:31
+msgid "Subscribe"
+msgstr "Подписаться"
+
+#: ../includes/widgets/widget-counter.php:43
+#: ../includes/widgets/widget-counter.php:74
+#: ../includes/widgets/widget-counter.php:84
+msgid "Subscribers"
+msgstr "Подписчиков"
+
+#: ../includes/widgets/widget-counter.php:44
+msgid "To RSS Feed"
+msgstr "На RSS канал"
+
+#: ../includes/widgets/widget-counter.php:54
+#: ../includes/widgets/widget-counter.php:94
+msgid "Followers"
+msgstr "Отслеживающих"
+
+#: ../includes/widgets/widget-counter.php:64
+msgid "Fans"
+msgstr "Фанов"
+
+#: ../includes/widgets/widget-custom-author.php:49
+msgid "About Author"
+msgstr "Об авторе"
+
+#: ../includes/widgets/widget-facebook.php:41
+msgid "Find us on Facebook"
+msgstr "Найти нас на  Facebook"
+
+#: ../includes/widgets/widget-feedburner.php:28
+msgid "Enter your e-mail address"
+msgstr "Введите ваш e-mail тут"
+
+#: ../includes/widgets/widget-feedburner.php:47
+msgid "FeedBurner Widget"
+msgstr "FeedBurner виджет"
+
+#: ../includes/widgets/widget-feedburner.php:47
+msgid "Subscribe to our email newsletter."
+msgstr "Подписаться на наш информационный бюллетень."
+
+#: ../includes/widgets/widget-flickr.php:44
+msgid "Flickr"
+msgstr "Flickr"
+
+#: ../includes/widgets/widget-google.php:53
+msgid "Follow us on Google+"
+msgstr "Следуй за нами на Google+"
+
+#: ../includes/widgets/widget-login.php:49
+msgid "Login"
+msgstr "Логин"
+
+#: ../includes/widgets/widget-news-pic.php:44
+msgid "News in Pictures"
+msgstr "Новости в картинках"
+
+#: ../includes/widgets/widget-posts.php:58
+msgid "Recent Posts"
+msgstr "Последние записи"
+
+#: ../includes/widgets/widget-search.php:19
+msgid "to search type and hit enter"
+msgstr "введите слово и нажмите enter"
+
+#: ../includes/widgets/widget-social.php:48
+msgid "Social"
+msgstr "Социальные сети"
+
+#: ../includes/widgets/widget-tabbed.php:21
+msgid "Popular"
+msgstr "Популярно"
+
+#: ../includes/widgets/widget-tabbed.php:22
+msgid "Recent"
+msgstr "Новые"
+
+#: ../includes/widgets/widget-tabbed.php:23
+msgid "Comments"
+msgstr "Комменты"
+
+#: ../includes/widgets/widget-text-html.php:56
+msgid "Text"
+msgstr "Текст"
+
+#: ../includes/widgets/widget-twitter.php:75
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: ../includes/widgets/widget-twitter.php:77
+msgid "Y/m/d"
+msgstr ""
+
+#: ../includes/widgets/widget-twitter.php:78
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../includes/widgets/widget-twitter.php:78
+msgid "Y/m/d H:i:s"
+msgstr ""
+
+#: ../includes/widgets/widget-twitter.php:112
+msgid "@Follow Me"
+msgstr ""
+
+#: ../includes/widgets/widget-video.php:63
+msgid " Featured Video"
+msgstr "Лучшее видео"
+
+#: ../includes/widgets/widget-youtube.php:40
+msgid "Subscribe to our Channel"
+msgstr "Подписаться на наш канал"
+
+#: ../panel/mpanel-functions.php:162
+msgid "Use this image"
+msgstr "Использовать это изображение"
+
+#: ../panel/shortcodes/shortcode.php:396
+msgid "About The Author"
+msgstr "Об авторе"
+
+#: ../woocommerce/single-product/related.php:38
+msgid "Related Products"
+msgstr "Похожие продукты"

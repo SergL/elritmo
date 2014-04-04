@@ -5,7 +5,7 @@
 
 .cform { 
 	margin:10px auto 0 auto; 
-	width: 410px; 
+	width: 580px; 
 }
 
 .cform fieldset	{ 
@@ -66,14 +66,14 @@ ol.cf-ol li.textonly {
 	font:12px Arial;
 	margin:0 10px 0 0;
 	padding:5px 5px 5px;
-	width:140px;
+	width:580px;
 
 	display:-moz-inline-box; /*for mozilla*/
 	display:inline-block; /*for Opera & IE*/
 	vertical-align:top;
 }
 .cform label span {
-	width:140px; /* must be the same as above!*/
+	width:580px; /* must be the same as above!*/
 	display:block; 
 }
 
@@ -120,7 +120,7 @@ label.cf-group-after span {
 	border:1px solid #CCCCCC;
 	color:#666666;
 	padding:4px 5px;
-	width:230px;
+	width:580px;
 	vertical-align:top;
 }
 .cform input:hover,
@@ -128,15 +128,15 @@ label.cf-group-after span {
 .cform select:hover	{
 	border:1px solid #999999;
 	color:#000000;
-	width:230px;
+	width:580px;
 }
 .cform .cf_date {
-	width:210px!important;
+	width:580px!important;
 }
 
 .cform select,
 .cform select:hover {
-	width:242px; /* attempt to have equal length */
+	width:580px; /* attempt to have equal length */
 	padding: 3px 5px;
 }  
 
@@ -151,14 +151,14 @@ label.cf-group-after span {
 
 .cform input.fldrequired,
 .cform input.fldrequired:hover{
-	border-right:3px solid #ebc2c2; 
-	width:228px;
+	border-right:3px solid #CD2122; 
+	width:580px;
 }
 
 .cform select.fldrequired,
 .cform select.fldrequired:hover {
-	border-right:3px solid #ebc2c2; 
-	width:242px;
+	border-right:3px solid #CD2122; 
+	width:580px;
 }
 
 /*                                                    */
@@ -178,7 +178,7 @@ span.emailreqtxt {
 ol.cf-ol li.cf-box-title {
 	font-weight:bold;
 	margin:8px 0pt 0pt !important;
-	padding-left:160px; /* check with label 'width' incl. */
+	padding-left:580px; /* check with label 'width' incl. */
 }
 
 /*                                                    */
@@ -198,7 +198,7 @@ ol.cf-ol li.cf-box-title {
 }
 
 .cform input.cf-box-a 	{ 
-	margin-left:160px!important; /* check with label 'width' incl. */
+	margin-left:580px!important; /* check with label 'width' incl. */
 } 
 
 /*                                                    */
@@ -208,7 +208,7 @@ ol.cf-ol li.cf-box-title {
 ol.cf-ol li.cf-box-group {
 	font-weight:bold;
 	margin:10px 0pt 0px !important;
-	padding-left:160px; 
+	padding-left:580px; 
 } 
 
 

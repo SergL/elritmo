@@ -1,1 +1,1 @@
-<?php $abspath = '/home/vetalua8/public_html/elritmo.info/'; ?>
+<?php $abspath = '/home/chillisa/elritmo.info/www/'; ?>

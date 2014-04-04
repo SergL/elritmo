@@ -14,4 +14,5 @@ wp-content/cache
 wp-content/gallery
 wp-content/uploads
 wp-content/cache
+wp-content/plugins/all-in-one-event-calendar/cache
 wp-config.php
